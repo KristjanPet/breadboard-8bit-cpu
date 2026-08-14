@@ -26,7 +26,7 @@ A half adder adds two binary inputs.
 
 | Sum 0, Carry 0            | Sum 1, Carry 0                  | Sum 0, Carry 1            |
 | ------------------------- | ------------------------------- | ------------------------- |
-| ![Inputs 00](half-00.jpg) | ![Inputs 01 or 10](half-10.jpg) | ![Inputs 11](half-01.jpg) |
+| ![Inputs 00](half-00.jpg) | ![Inputs 01 or 10](half-10.jpg) | ![Inputs 11](half-11.jpg) |
 
 ## Full Adder
 
