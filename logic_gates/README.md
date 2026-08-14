@@ -9,5 +9,5 @@ Basic logic gates built with discrete transistors to understand digital logic.
 * [x] AND gate
 * [ ] NOR gate
 * [ ] OR gate
-* [ ] XOR gate
+* [x] XOR gate
 * [ ] XNOR gate
