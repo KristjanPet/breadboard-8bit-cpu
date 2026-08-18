@@ -876,22 +876,118 @@
 		)
 	)
 	(junction
-		(at 46.99 95.25)
+		(at 104.14 129.54)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "00a902d2-85e8-443b-b01c-1839fd1211e7")
+	)
+	(junction
+		(at 111.76 129.54)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "04f883fc-6797-46f9-8d92-5bd79e36f964")
+	)
+	(junction
+		(at 213.36 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "12f0ff6d-b6a0-4561-a072-7ae4cb255169")
 	)
 	(junction
-		(at 200.66 24.13)
+		(at 158.75 152.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1b2b02a1-da80-4ab7-aa48-be804f931129")
+	)
+	(junction
+		(at 129.54 132.08)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1cea2a8c-d448-49bb-bac2-0b1f60690875")
+	)
+	(junction
+		(at 200.66 19.05)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "25f3a830-620f-42d3-9390-5f0983cdde8e")
 	)
 	(junction
-		(at 182.88 24.13)
+		(at 158.75 172.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2692e5c0-974e-48dd-93b0-0555d57b69ad")
+	)
+	(junction
+		(at 44.45 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2c1b3786-7cb5-4266-8fe3-8b80dbbb7f54")
+	)
+	(junction
+		(at 118.11 172.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2da55da2-c075-4c8c-9bb8-3585b9d3a9ff")
+	)
+	(junction
+		(at 143.51 139.7)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2f27b5b6-59a1-473f-b5b1-e7fe5ebc2859")
+	)
+	(junction
+		(at 49.53 132.08)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "33af362f-9b22-4559-8b15-f40a429d2f95")
+	)
+	(junction
+		(at 124.46 128.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "34fb0218-56bd-47c7-baa4-68b7103177c1")
+	)
+	(junction
+		(at 63.5 139.7)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3a99fd54-7efd-443c-a094-9c8d739feac9")
+	)
+	(junction
+		(at 31.75 130.81)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3b1baa44-9343-4444-ada6-708afcac16d4")
+	)
+	(junction
+		(at 182.88 19.05)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3c330395-f265-4a75-8e08-e1bb96f4c913")
+	)
+	(junction
+		(at 172.72 160.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3dca3b7f-aeeb-434f-bd75-bcfc887df7e5")
+	)
+	(junction
+		(at 167.64 129.54)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4b03afc8-062e-4b18-86c9-1a130776b5c6")
+	)
+	(junction
+		(at 104.14 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4b728106-99a7-4af8-8c1a-bdcbf6041eea")
+	)
+	(junction
+		(at 167.64 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4eb6b171-3b85-4d7e-8564-d892a4efa079")
 	)
 	(junction
 		(at 40.64 46.99)
@@ -900,16 +996,28 @@
 		(uuid "549557a6-5aee-48b5-bb48-afbde181c4dd")
 	)
 	(junction
-		(at 63.5 125.73)
+		(at 229.87 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "59531fd8-00bc-4dc1-8adf-c2cfd5f303b7")
 	)
 	(junction
-		(at 182.88 38.1)
+		(at 92.71 130.81)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "595b6dbe-2563-4289-b149-c5cb01f0f1bd")
+	)
+	(junction
+		(at 182.88 33.02)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "59e9cafc-b65c-4f23-9fee-61e86ee6b76c")
+	)
+	(junction
+		(at 31.75 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5d143d32-b35e-4491-97ad-51a4d65c0917")
 	)
 	(junction
 		(at 67.31 39.37)
@@ -918,28 +1026,46 @@
 		(uuid "61f53885-72fb-42d2-94f8-2ec4c7bc5bb1")
 	)
 	(junction
-		(at 107.95 105.41)
+		(at 274.32 78.74)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "64a2f2dc-d41c-4c70-be04-364825a19e5b")
 	)
 	(junction
-		(at 52.07 82.55)
+		(at 218.44 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "67d0dec3-bd97-47de-aa78-7910f954781b")
 	)
 	(junction
-		(at 195.58 36.83)
+		(at 195.58 31.75)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6922b4f8-b31f-43cf-81b8-255fcbb0344f")
 	)
 	(junction
-		(at 46.99 125.73)
+		(at 180.34 139.7)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6bf32a66-2a13-4ae4-823f-2459ccb2444c")
+	)
+	(junction
+		(at 213.36 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6f37012e-ed53-484b-a495-9aaa3e39d9cf")
+	)
+	(junction
+		(at 130.81 160.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "70afcca3-33f7-450e-ad8b-3bc141a964a3")
+	)
+	(junction
+		(at 44.45 129.54)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "71761735-81f7-40e4-b080-176f6542cf63")
 	)
 	(junction
 		(at 120.65 34.29)
@@ -948,7 +1074,7 @@
 		(uuid "75221b17-5e33-453f-9c92-45f49333ad2b")
 	)
 	(junction
-		(at 34.29 82.55)
+		(at 200.66 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "75ad1766-3dd5-4152-9758-9c1a1169b8e4")
@@ -960,13 +1086,31 @@
 		(uuid "82a9911f-13c1-4e6e-bb5b-8e294fc68ca1")
 	)
 	(junction
-		(at 171.45 46.99)
+		(at 44.45 160.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "84836ef6-c971-4106-82d2-ff9f5797487b")
+	)
+	(junction
+		(at 158.75 160.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8c57c428-87ae-4808-ae86-680890726bdb")
+	)
+	(junction
+		(at 44.45 172.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "92e1e9e5-c3d1-4a3a-98a0-8023f66b103d")
+	)
+	(junction
+		(at 171.45 41.91)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "95d2cc1b-4bcb-4bd5-89e4-b92b2a27940f")
 	)
 	(junction
-		(at 52.07 97.79)
+		(at 218.44 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "97d01cd0-3a7d-4ee1-b862-dd40da67caf0")
@@ -978,10 +1122,22 @@
 		(uuid "a0798484-60b0-49a2-80ff-55ad0badf8af")
 	)
 	(junction
-		(at 34.29 96.52)
+		(at 118.11 160.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ab626e61-ab11-41d2-aeb1-3ed8a3b031d2")
+	)
+	(junction
+		(at 200.66 69.85)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "aebeea12-2725-49b1-bb3f-59b12df17d70")
+	)
+	(junction
+		(at 129.54 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b642ce5d-bb54-48a8-9e96-c71592990d61")
 	)
 	(junction
 		(at 90.17 59.69)
@@ -990,7 +1146,13 @@
 		(uuid "b73f2d4f-be5c-4327-b56b-1ec89e1df8e7")
 	)
 	(junction
-		(at 66.04 105.41)
+		(at 60.96 160.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b86dd379-35e6-4fa1-9072-d764fe6ca567")
+	)
+	(junction
+		(at 232.41 78.74)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ba2bc007-9afe-4cb8-9ce3-8c1e682131e9")
@@ -1002,52 +1164,94 @@
 		(uuid "bb0d7683-9812-4fd1-869c-8e17c2b54043")
 	)
 	(junction
-		(at 243.84 46.99)
+		(at 49.53 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c09848fe-b865-4509-9fcb-f04f5e39cb6d")
+	)
+	(junction
+		(at 243.84 41.91)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c1242b4a-18ba-422c-b3ff-de241eb3ccd4")
 	)
 	(junction
-		(at 214.63 46.99)
+		(at 214.63 41.91)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c6eb24ab-aecd-483d-af41-3b6a4de27c5e")
 	)
 	(junction
-		(at 46.99 138.43)
+		(at 60.96 172.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c81a732b-878e-4cba-a1ae-8dc2fd612140")
+	)
+	(junction
+		(at 213.36 111.76)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "caf28e82-c182-4d5b-a6af-95a2944ff0b6")
 	)
 	(junction
-		(at 195.58 24.13)
+		(at 195.58 19.05)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ccd62ae4-1aea-4713-8158-971f73a2d1e8")
 	)
 	(junction
-		(at 95.25 96.52)
+		(at 124.46 130.81)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d1812adb-2589-49a7-a87e-4662fb3737f5")
+	)
+	(junction
+		(at 104.14 139.7)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d3b6e5f3-029a-48f9-943c-62c3c62a63c7")
+	)
+	(junction
+		(at 261.62 69.85)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dc3b4abb-d088-43a0-b315-b7337c64d706")
 	)
 	(junction
-		(at 200.66 39.37)
+		(at 200.66 34.29)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ddeba447-29a0-4bf8-9405-324c97b25896")
 	)
 	(junction
-		(at 46.99 82.55)
+		(at 213.36 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "de86b43c-d273-4954-9e35-112d5055de49")
 	)
 	(junction
-		(at 95.25 82.55)
+		(at 124.46 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e7aa5e0a-48ea-4ac3-832a-603131f88780")
+	)
+	(junction
+		(at 92.71 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f534382f-7be2-4ab7-b8ed-486c827a1ca3")
+	)
+	(junction
+		(at 261.62 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f8c0eb33-67f2-4f0c-a6fb-b1676f795c29")
+	)
+	(junction
+		(at 130.81 172.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fc250c23-cd81-499c-af2f-df500c3d329e")
 	)
 	(wire
 		(pts
@@ -1071,7 +1275,37 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 46.99) (xy 187.96 46.99)
+			(xy 172.72 160.02) (xy 179.07 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "02842fe7-7195-4673-87a7-8385762e8f68")
+	)
+	(wire
+		(pts
+			(xy 118.11 130.81) (xy 124.46 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0458f279-3969-4991-980e-fd9eeee06aab")
+	)
+	(wire
+		(pts
+			(xy 100.33 152.4) (xy 104.14 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "048f9c97-6fa6-47cd-b9f4-c82a9e57c242")
+	)
+	(wire
+		(pts
+			(xy 190.5 41.91) (xy 187.96 41.91)
 		)
 		(stroke
 			(width 0)
@@ -1081,13 +1315,33 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 52.07) (xy 214.63 46.99)
+			(xy 214.63 46.99) (xy 214.63 41.91)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "06a2db97-eefc-4ec9-812d-f2b767e8fc02")
+	)
+	(wire
+		(pts
+			(xy 49.53 116.84) (xy 92.71 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "06ae331d-87dd-4d83-a1c6-fc385741598e")
+	)
+	(wire
+		(pts
+			(xy 167.64 139.7) (xy 167.64 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b0927e4-6534-4e64-b026-c2547341fbcc")
 	)
 	(wire
 		(pts
@@ -1101,7 +1355,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 24.13) (xy 195.58 25.4)
+			(xy 195.58 19.05) (xy 195.58 20.32)
 		)
 		(stroke
 			(width 0)
@@ -1121,7 +1375,37 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 38.1) (xy 243.84 46.99)
+			(xy 157.48 139.7) (xy 157.48 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c7bcf12-9bdd-48df-9c79-074cf7ef25f9")
+	)
+	(wire
+		(pts
+			(xy 31.75 130.81) (xy 16.51 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0f65985c-199f-4e10-a53c-e9439ce9919c")
+	)
+	(wire
+		(pts
+			(xy 44.45 160.02) (xy 44.45 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1036534f-5efd-496e-9a52-18a31833f223")
+	)
+	(wire
+		(pts
+			(xy 243.84 33.02) (xy 243.84 41.91)
 		)
 		(stroke
 			(width 0)
@@ -1131,7 +1415,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 53.34) (xy 171.45 53.34)
+			(xy 203.2 48.26) (xy 171.45 48.26)
 		)
 		(stroke
 			(width 0)
@@ -1151,7 +1435,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 38.1) (xy 182.88 39.37)
+			(xy 182.88 33.02) (xy 182.88 34.29)
 		)
 		(stroke
 			(width 0)
@@ -1171,7 +1455,47 @@
 	)
 	(wire
 		(pts
-			(xy 255.27 46.99) (xy 255.27 24.13)
+			(xy 60.96 160.02) (xy 58.42 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "133f5e16-8d97-4c8f-8cac-d6449d6f0642")
+	)
+	(wire
+		(pts
+			(xy 175.26 132.08) (xy 175.26 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13ad673a-0688-4a2b-ab77-d852ace959dd")
+	)
+	(wire
+		(pts
+			(xy 129.54 139.7) (xy 129.54 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "148478b9-1a89-4bb4-9eb4-424fdc32430c")
+	)
+	(wire
+		(pts
+			(xy 134.62 160.02) (xy 134.62 166.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1641dc06-738e-4805-a650-b524222e014e")
+	)
+	(wire
+		(pts
+			(xy 255.27 41.91) (xy 255.27 19.05)
 		)
 		(stroke
 			(width 0)
@@ -1191,7 +1515,17 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 46.99) (xy 203.2 53.34)
+			(xy 154.94 139.7) (xy 154.94 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "191881a2-25b3-4baf-80c2-fe0944e8deee")
+	)
+	(wire
+		(pts
+			(xy 203.2 41.91) (xy 203.2 48.26)
 		)
 		(stroke
 			(width 0)
@@ -1201,7 +1535,47 @@
 	)
 	(wire
 		(pts
-			(xy 200.66 39.37) (xy 208.28 39.37)
+			(xy 31.75 128.27) (xy 31.75 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "198c6257-96b1-4e9c-b240-7e434fbb5b5d")
+	)
+	(wire
+		(pts
+			(xy 124.46 130.81) (xy 124.46 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a28faa1-caf4-464b-ba37-4d2a264677a9")
+	)
+	(wire
+		(pts
+			(xy 76.2 139.7) (xy 76.2 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1aad44d6-d09c-4e12-b1e2-e834263dee34")
+	)
+	(wire
+		(pts
+			(xy 31.75 130.81) (xy 71.12 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1ae3c9bc-f142-41f5-b3e6-9bd55fe81b06")
+	)
+	(wire
+		(pts
+			(xy 200.66 34.29) (xy 208.28 34.29)
 		)
 		(stroke
 			(width 0)
@@ -1211,7 +1585,17 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 125.73) (xy 81.28 125.73)
+			(xy 143.51 139.7) (xy 144.78 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f65b454-e2d2-4c56-997e-1b953afc6711")
+	)
+	(wire
+		(pts
+			(xy 241.3 99.06) (xy 247.65 99.06)
 		)
 		(stroke
 			(width 0)
@@ -1221,7 +1605,17 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 35.56) (xy 195.58 36.83)
+			(xy 187.96 138.43) (xy 187.96 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2002574e-ce82-40cf-bb45-50b1f121f74b")
+	)
+	(wire
+		(pts
+			(xy 195.58 30.48) (xy 195.58 31.75)
 		)
 		(stroke
 			(width 0)
@@ -1231,7 +1625,7 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 96.52) (xy 73.66 96.52)
+			(xy 200.66 69.85) (xy 240.03 69.85)
 		)
 		(stroke
 			(width 0)
@@ -1241,7 +1635,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 97.79) (xy 73.66 96.52)
+			(xy 240.03 71.12) (xy 240.03 69.85)
 		)
 		(stroke
 			(width 0)
@@ -1251,7 +1645,7 @@
 	)
 	(wire
 		(pts
-			(xy 200.66 39.37) (xy 200.66 46.99)
+			(xy 200.66 34.29) (xy 200.66 41.91)
 		)
 		(stroke
 			(width 0)
@@ -1261,13 +1655,103 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 96.52) (xy 95.25 96.52)
+			(xy 267.97 69.85) (xy 261.62 69.85)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "241354d7-28d6-4ccd-b4e6-233778de5a8d")
+	)
+	(wire
+		(pts
+			(xy 62.23 139.7) (xy 63.5 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "245089e8-acd1-4623-abf9-9a47cf02e200")
+	)
+	(wire
+		(pts
+			(xy 187.96 124.46) (xy 187.96 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "26336502-6b26-4806-8e5f-efc348a68926")
+	)
+	(wire
+		(pts
+			(xy 118.11 152.4) (xy 118.11 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "264d31fb-4c44-4d18-8672-e0592f4082d1")
+	)
+	(wire
+		(pts
+			(xy 95.25 160.02) (xy 95.25 166.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b049fdf-196f-4a6a-8c1c-b46207d11e3a")
+	)
+	(wire
+		(pts
+			(xy 39.37 139.7) (xy 36.83 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2c6ff42d-711c-4664-81f0-85e147e8332e")
+	)
+	(wire
+		(pts
+			(xy 170.18 139.7) (xy 170.18 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2cadd413-8587-46d3-a1c9-ae0fdfb4dc88")
+	)
+	(wire
+		(pts
+			(xy 99.06 130.81) (xy 92.71 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2cbbfa77-6954-4853-9a68-5a1bbbdedca0")
+	)
+	(wire
+		(pts
+			(xy 60.96 172.72) (xy 44.45 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2dbbfade-4a44-43f7-abf0-cd81a0c36cb6")
+	)
+	(wire
+		(pts
+			(xy 104.14 116.84) (xy 124.46 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2dfd1dcd-e046-4952-9312-57ec6b290e09")
 	)
 	(wire
 		(pts
@@ -1281,7 +1765,17 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 83.82) (xy 111.76 90.17)
+			(xy 144.78 149.86) (xy 158.75 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f301ea1-78d3-408f-9c3d-d0c25cc0e542")
+	)
+	(wire
+		(pts
+			(xy 278.13 57.15) (xy 278.13 63.5)
 		)
 		(stroke
 			(width 0)
@@ -1291,7 +1785,7 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 93.98) (xy 34.29 96.52)
+			(xy 200.66 67.31) (xy 200.66 69.85)
 		)
 		(stroke
 			(width 0)
@@ -1311,7 +1805,27 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 96.52) (xy 25.4 96.52)
+			(xy 129.54 132.08) (xy 137.16 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34ce2db1-7374-42bf-838d-cc222362bdbb")
+	)
+	(wire
+		(pts
+			(xy 172.72 160.02) (xy 172.72 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "379f7c7f-d6b5-4e3b-9680-f9e5f727cf84")
+	)
+	(wire
+		(pts
+			(xy 200.66 69.85) (xy 191.77 69.85)
 		)
 		(stroke
 			(width 0)
@@ -1321,7 +1835,17 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 82.55) (xy 46.99 82.55)
+			(xy 154.94 129.54) (xy 167.64 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a6abd83-8359-478c-8de3-e85924d15f82")
+	)
+	(wire
+		(pts
+			(xy 200.66 55.88) (xy 213.36 55.88)
 		)
 		(stroke
 			(width 0)
@@ -1331,7 +1855,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 82.55) (xy 46.99 82.55)
+			(xy 218.44 55.88) (xy 213.36 55.88)
 		)
 		(stroke
 			(width 0)
@@ -1351,7 +1875,17 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 83.82) (xy 34.29 82.55)
+			(xy 153.67 152.4) (xy 153.67 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3ba89ab0-75d2-4b6b-8bc3-470ae710118c")
+	)
+	(wire
+		(pts
+			(xy 200.66 57.15) (xy 200.66 55.88)
 		)
 		(stroke
 			(width 0)
@@ -1361,13 +1895,23 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 125.73) (xy 63.5 138.43)
+			(xy 229.87 99.06) (xy 229.87 111.76)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "3e8ed0d4-6c70-4230-aa03-cc50d0645cb2")
+	)
+	(wire
+		(pts
+			(xy 53.34 152.4) (xy 44.45 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f31305a-6a83-4e5b-bf27-b2ad9c86ea3c")
 	)
 	(wire
 		(pts
@@ -1391,7 +1935,27 @@
 	)
 	(wire
 		(pts
-			(xy 22.86 105.41) (xy 29.21 105.41)
+			(xy 158.75 160.02) (xy 158.75 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41627052-447b-430b-acec-cc5a1480a65e")
+	)
+	(wire
+		(pts
+			(xy 44.45 116.84) (xy 44.45 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "419793a2-c0fa-4267-a79d-1a2c071f643e")
+	)
+	(wire
+		(pts
+			(xy 189.23 78.74) (xy 195.58 78.74)
 		)
 		(stroke
 			(width 0)
@@ -1401,7 +1965,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 96.52) (xy 95.25 105.41)
+			(xy 261.62 69.85) (xy 261.62 78.74)
 		)
 		(stroke
 			(width 0)
@@ -1411,13 +1975,23 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 82.55) (xy 107.95 82.55)
+			(xy 261.62 55.88) (xy 274.32 55.88)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "448280ae-3e8a-4de5-8b3e-52be3771bf4b")
+	)
+	(wire
+		(pts
+			(xy 186.69 160.02) (xy 193.04 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45cf03d1-a5f2-4674-bc23-fd909e0ada90")
 	)
 	(wire
 		(pts
@@ -1431,7 +2005,7 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 95.25) (xy 87.63 95.25)
+			(xy 213.36 68.58) (xy 254 68.58)
 		)
 		(stroke
 			(width 0)
@@ -1441,7 +2015,27 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 46.99) (xy 243.84 46.99)
+			(xy 38.1 152.4) (xy 38.1 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47d7cb2f-d425-4d81-9a02-b6e4b00cf834")
+	)
+	(wire
+		(pts
+			(xy 105.41 160.02) (xy 107.95 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ae4154f-a354-4504-815c-4485b41f8439")
+	)
+	(wire
+		(pts
+			(xy 241.3 41.91) (xy 243.84 41.91)
 		)
 		(stroke
 			(width 0)
@@ -1451,7 +2045,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 118.11) (xy 40.64 95.25)
+			(xy 207.01 91.44) (xy 207.01 68.58)
 		)
 		(stroke
 			(width 0)
@@ -1461,13 +2055,53 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 82.55) (xy 46.99 83.82)
+			(xy 213.36 55.88) (xy 213.36 57.15)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "4b9d47d0-516b-4274-8f37-6ea526bf5abe")
+	)
+	(wire
+		(pts
+			(xy 85.09 132.08) (xy 85.09 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4c9abbc7-28eb-4834-b0de-248de0822ee6")
+	)
+	(wire
+		(pts
+			(xy 25.4 139.7) (xy 26.67 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4cd09982-a46c-4f24-b76d-87eecae7e2d0")
+	)
+	(wire
+		(pts
+			(xy 118.11 172.72) (xy 130.81 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ea2bc8f-d8dd-4567-bb81-407f42c2928e")
+	)
+	(wire
+		(pts
+			(xy 144.78 160.02) (xy 144.78 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4eb8215c-f9bc-438a-a26c-dbd6015f0fbe")
 	)
 	(wire
 		(pts
@@ -1481,6 +2115,16 @@
 	)
 	(wire
 		(pts
+			(xy 113.03 152.4) (xy 118.11 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "500789e2-a3b5-4463-ac7e-8d881620490d")
+	)
+	(wire
+		(pts
 			(xy 105.41 30.48) (xy 107.95 30.48)
 		)
 		(stroke
@@ -1491,7 +2135,7 @@
 	)
 	(wire
 		(pts
-			(xy 107.95 82.55) (xy 107.95 105.41)
+			(xy 274.32 55.88) (xy 274.32 78.74)
 		)
 		(stroke
 			(width 0)
@@ -1511,7 +2155,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 105.41) (xy 96.52 110.49)
+			(xy 262.89 78.74) (xy 262.89 83.82)
 		)
 		(stroke
 			(width 0)
@@ -1521,7 +2165,27 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 53.34) (xy 171.45 46.99)
+			(xy 63.5 144.78) (xy 63.5 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "56d434f8-4675-4c99-9ccd-5cedb4baac3f")
+	)
+	(wire
+		(pts
+			(xy 116.84 139.7) (xy 119.38 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "57d9cbff-3abe-4183-b322-66631b75e229")
+	)
+	(wire
+		(pts
+			(xy 171.45 48.26) (xy 171.45 41.91)
 		)
 		(stroke
 			(width 0)
@@ -1531,7 +2195,7 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 125.73) (xy 45.72 125.73)
+			(xy 213.36 99.06) (xy 212.09 99.06)
 		)
 		(stroke
 			(width 0)
@@ -1541,7 +2205,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 46.99) (xy 214.63 46.99)
+			(xy 213.36 41.91) (xy 214.63 41.91)
 		)
 		(stroke
 			(width 0)
@@ -1551,7 +2215,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 24.13) (xy 182.88 24.13)
+			(xy 171.45 19.05) (xy 182.88 19.05)
 		)
 		(stroke
 			(width 0)
@@ -1561,7 +2225,37 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 24.13) (xy 195.58 24.13)
+			(xy 71.12 132.08) (xy 71.12 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5daa55be-d535-4ba0-9ff7-f862b6b0fc0d")
+	)
+	(wire
+		(pts
+			(xy 167.64 129.54) (xy 167.64 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ea06057-4a9c-4167-853d-df12d151068d")
+	)
+	(wire
+		(pts
+			(xy 172.72 172.72) (xy 158.75 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "608e428c-8e14-4120-b22a-153c8c2f150f")
+	)
+	(wire
+		(pts
+			(xy 182.88 19.05) (xy 195.58 19.05)
 		)
 		(stroke
 			(width 0)
@@ -1581,7 +2275,17 @@
 	)
 	(wire
 		(pts
-			(xy 254 46.99) (xy 255.27 46.99)
+			(xy 60.96 160.02) (xy 60.96 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "61912a66-8161-4227-bb58-c56c03a06c77")
+	)
+	(wire
+		(pts
+			(xy 254 41.91) (xy 255.27 41.91)
 		)
 		(stroke
 			(width 0)
@@ -1591,7 +2295,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 97.79) (xy 52.07 105.41)
+			(xy 218.44 71.12) (xy 218.44 78.74)
 		)
 		(stroke
 			(width 0)
@@ -1601,7 +2305,17 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 39.37) (xy 236.22 36.83)
+			(xy 20.32 116.84) (xy 31.75 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "62607761-2c56-43ff-9305-0d68317e2c93")
+	)
+	(wire
+		(pts
+			(xy 236.22 34.29) (xy 236.22 31.75)
 		)
 		(stroke
 			(width 0)
@@ -1611,13 +2325,33 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 110.49) (xy 66.04 110.49)
+			(xy 49.53 132.08) (xy 57.15 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64e7bd12-0dc2-4589-bd38-122719525fc9")
+	)
+	(wire
+		(pts
+			(xy 248.92 83.82) (xy 232.41 83.82)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "64e8531b-c96e-4757-87fe-070dc5f8e6f8")
+	)
+	(wire
+		(pts
+			(xy 49.53 116.84) (xy 49.53 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6545b295-1e1f-450d-97bf-dbfa9cbabd35")
 	)
 	(wire
 		(pts
@@ -1631,7 +2365,17 @@
 	)
 	(wire
 		(pts
-			(xy 21.59 138.43) (xy 46.99 138.43)
+			(xy 106.68 139.7) (xy 106.68 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "65c038b0-0642-4155-ae98-8df7cc0071b0")
+	)
+	(wire
+		(pts
+			(xy 187.96 111.76) (xy 213.36 111.76)
 		)
 		(stroke
 			(width 0)
@@ -1641,7 +2385,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 105.41) (xy 78.74 96.52)
+			(xy 245.11 78.74) (xy 245.11 69.85)
 		)
 		(stroke
 			(width 0)
@@ -1661,7 +2405,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 105.41) (xy 39.37 105.41)
+			(xy 208.28 78.74) (xy 205.74 78.74)
 		)
 		(stroke
 			(width 0)
@@ -1671,13 +2415,43 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 46.99) (xy 217.17 46.99)
+			(xy 118.11 172.72) (xy 60.96 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "68449ab7-552d-4043-ac87-c6992c6728df")
+	)
+	(wire
+		(pts
+			(xy 214.63 41.91) (xy 217.17 41.91)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "6af08040-4590-471b-ad1e-b8340272faf9")
+	)
+	(wire
+		(pts
+			(xy 124.46 116.84) (xy 129.54 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6baac284-659f-4626-a764-a43795fbb6cb")
+	)
+	(wire
+		(pts
+			(xy 31.75 118.11) (xy 31.75 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6da3871c-c1e5-4d88-ade4-28f8805eae62")
 	)
 	(wire
 		(pts
@@ -1691,6 +2465,36 @@
 	)
 	(wire
 		(pts
+			(xy 92.71 130.81) (xy 92.71 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "701ea64c-deec-41a5-ac32-89d231395732")
+	)
+	(wire
+		(pts
+			(xy 104.14 129.54) (xy 111.76 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "70fcba0c-2d6c-4486-83b1-e81a74e36a5b")
+	)
+	(wire
+		(pts
+			(xy 44.45 128.27) (xy 44.45 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "723b2ea8-91ee-4218-b55c-fcb67856432a")
+	)
+	(wire
+		(pts
 			(xy 58.42 46.99) (xy 40.64 46.99)
 		)
 		(stroke
@@ -1701,7 +2505,17 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 25.4) (xy 182.88 24.13)
+			(xy 111.76 129.54) (xy 111.76 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "747f67d2-62ec-45c2-b8cd-2b214b6aa518")
+	)
+	(wire
+		(pts
+			(xy 182.88 20.32) (xy 182.88 19.05)
 		)
 		(stroke
 			(width 0)
@@ -1721,7 +2535,7 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 125.73) (xy 46.99 138.43)
+			(xy 213.36 99.06) (xy 213.36 111.76)
 		)
 		(stroke
 			(width 0)
@@ -1731,7 +2545,7 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 46.99) (xy 231.14 52.07)
+			(xy 231.14 41.91) (xy 231.14 46.99)
 		)
 		(stroke
 			(width 0)
@@ -1741,7 +2555,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 36.83) (xy 195.58 39.37)
+			(xy 195.58 31.75) (xy 195.58 34.29)
 		)
 		(stroke
 			(width 0)
@@ -1751,7 +2565,7 @@
 	)
 	(wire
 		(pts
-			(xy 255.27 24.13) (xy 200.66 24.13)
+			(xy 255.27 19.05) (xy 200.66 19.05)
 		)
 		(stroke
 			(width 0)
@@ -1761,7 +2575,17 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 35.56) (xy 182.88 38.1)
+			(xy 38.1 129.54) (xy 44.45 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "79e22226-91c1-4023-9633-2fedf4ddea10")
+	)
+	(wire
+		(pts
+			(xy 182.88 30.48) (xy 182.88 33.02)
 		)
 		(stroke
 			(width 0)
@@ -1771,13 +2595,23 @@
 	)
 	(wire
 		(pts
-			(xy 22.86 82.55) (xy 34.29 82.55)
+			(xy 189.23 55.88) (xy 200.66 55.88)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "7bce59d9-14e6-4886-a6a3-ec4cd06814d1")
+	)
+	(wire
+		(pts
+			(xy 104.14 152.4) (xy 104.14 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d95da52-db8d-489a-b561-1d182dfdbb25")
 	)
 	(wire
 		(pts
@@ -1791,7 +2625,7 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 118.11) (xy 46.99 125.73)
+			(xy 213.36 91.44) (xy 213.36 99.06)
 		)
 		(stroke
 			(width 0)
@@ -1801,13 +2635,63 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 46.99) (xy 227.33 38.1)
+			(xy 130.81 172.72) (xy 158.75 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e5a40d3-2b33-472c-aa26-513b183350d9")
+	)
+	(wire
+		(pts
+			(xy 167.64 116.84) (xy 129.54 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8132824f-5a3a-4bc3-94a5-104908ffe46f")
+	)
+	(wire
+		(pts
+			(xy 118.11 160.02) (xy 118.11 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "81e476ea-ba3f-4c58-8f9a-c359fb409c1c")
+	)
+	(wire
+		(pts
+			(xy 139.7 149.86) (xy 60.96 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "822742af-7001-4738-8ade-059e1d2fcb0c")
+	)
+	(wire
+		(pts
+			(xy 227.33 41.91) (xy 227.33 33.02)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "8269be37-6b89-4855-b980-dbb65ed63094")
+	)
+	(wire
+		(pts
+			(xy 16.51 130.81) (xy 16.51 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8355071e-0b41-4a93-828c-71445b04294b")
 	)
 	(wire
 		(pts
@@ -1821,7 +2705,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 105.41) (xy 54.61 109.22)
+			(xy 220.98 78.74) (xy 220.98 82.55)
 		)
 		(stroke
 			(width 0)
@@ -1831,7 +2715,47 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 105.41) (xy 68.58 105.41)
+			(xy 157.48 144.78) (xy 143.51 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "84938932-d3eb-4e8a-8f41-999229332036")
+	)
+	(wire
+		(pts
+			(xy 49.53 116.84) (xy 44.45 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "84b296c7-770a-42ba-99aa-271d687efe2b")
+	)
+	(wire
+		(pts
+			(xy 130.81 151.13) (xy 130.81 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8537162a-bd8a-4e0e-b4df-3d7a4f8bfd44")
+	)
+	(wire
+		(pts
+			(xy 44.45 129.54) (xy 85.09 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8585eb14-66b0-4c87-8cff-b0b595328342")
+	)
+	(wire
+		(pts
+			(xy 232.41 78.74) (xy 234.95 78.74)
 		)
 		(stroke
 			(width 0)
@@ -1841,13 +2765,83 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 82.55) (xy 95.25 82.55)
+			(xy 44.45 129.54) (xy 44.45 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "874aabef-ce6b-4d6c-a4aa-781fb06b9e6d")
+	)
+	(wire
+		(pts
+			(xy 31.75 130.81) (xy 31.75 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "87ac416f-a676-4bc7-8b10-90aa74352afd")
+	)
+	(wire
+		(pts
+			(xy 162.56 132.08) (xy 162.56 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "88eea156-34c2-4ac9-a6f9-36ef03957b8d")
+	)
+	(wire
+		(pts
+			(xy 31.75 116.84) (xy 44.45 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8a3d7a58-e1fc-4c2e-bae3-d323fdf8cecd")
+	)
+	(wire
+		(pts
+			(xy 218.44 55.88) (xy 261.62 55.88)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "8cb5cdb2-ac20-4e84-9fa8-24ccc70049a2")
+	)
+	(wire
+		(pts
+			(xy 52.07 139.7) (xy 52.07 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d78c946-c85f-4d27-9a1c-9e1e924c7c86")
+	)
+	(wire
+		(pts
+			(xy 120.65 160.02) (xy 120.65 166.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9131a7ce-0507-4ce0-8198-30ceca1d31c6")
+	)
+	(wire
+		(pts
+			(xy 175.26 129.54) (xy 167.64 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "93afa46d-29c5-442c-a309-21339c52d92c")
 	)
 	(wire
 		(pts
@@ -1861,7 +2855,17 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 82.55) (xy 52.07 97.79)
+			(xy 142.24 139.7) (xy 143.51 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "954469fb-41c3-48b6-980c-812b6cd9d021")
+	)
+	(wire
+		(pts
+			(xy 218.44 55.88) (xy 218.44 71.12)
 		)
 		(stroke
 			(width 0)
@@ -1881,7 +2885,17 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 105.41) (xy 82.55 110.49)
+			(xy 158.75 149.86) (xy 158.75 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9eee3dea-364a-4b60-b001-f36a297f7571")
+	)
+	(wire
+		(pts
+			(xy 248.92 78.74) (xy 248.92 83.82)
 		)
 		(stroke
 			(width 0)
@@ -1891,7 +2905,17 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 105.41) (xy 107.95 105.41)
+			(xy 19.05 172.72) (xy 44.45 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a2bb0790-c0a0-49a5-be70-536d0788e1f0")
+	)
+	(wire
+		(pts
+			(xy 273.05 78.74) (xy 274.32 78.74)
 		)
 		(stroke
 			(width 0)
@@ -1901,7 +2925,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 118.11) (xy 46.99 118.11)
+			(xy 222.25 91.44) (xy 213.36 91.44)
 		)
 		(stroke
 			(width 0)
@@ -1911,7 +2935,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 105.41) (xy 95.25 105.41)
+			(xy 259.08 78.74) (xy 261.62 78.74)
 		)
 		(stroke
 			(width 0)
@@ -1921,7 +2945,17 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 52.07) (xy 214.63 52.07)
+			(xy 124.46 128.27) (xy 124.46 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a71e94d2-ed0e-448a-b136-bbe4ebef01a6")
+	)
+	(wire
+		(pts
+			(xy 231.14 46.99) (xy 214.63 46.99)
 		)
 		(stroke
 			(width 0)
@@ -1931,7 +2965,17 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 97.79) (xy 87.63 95.25)
+			(xy 130.81 160.02) (xy 130.81 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a7993edb-399b-4361-8f5c-a0993a99dded")
+	)
+	(wire
+		(pts
+			(xy 254 71.12) (xy 254 68.58)
 		)
 		(stroke
 			(width 0)
@@ -1941,13 +2985,53 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 125.73) (xy 35.56 125.73)
+			(xy 196.85 99.06) (xy 201.93 99.06)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "a7d3af1f-e8d3-41f9-9ef6-cd26a573f38a")
+	)
+	(wire
+		(pts
+			(xy 44.45 160.02) (xy 43.18 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a99cf65c-dfec-4cc0-8044-0f14c5600378")
+	)
+	(wire
+		(pts
+			(xy 76.2 130.81) (xy 92.71 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ac3f17f2-2c71-49b7-8d83-7746926e1b3c")
+	)
+	(wire
+		(pts
+			(xy 125.73 152.4) (xy 119.38 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad4e9c30-2a39-4c7e-9c6c-f9dafa25745f")
+	)
+	(wire
+		(pts
+			(xy 143.51 144.78) (xy 143.51 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b036422d-720e-4637-a256-38d4e25879cd")
 	)
 	(wire
 		(pts
@@ -1961,7 +3045,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 125.73) (xy 67.31 125.73)
+			(xy 229.87 99.06) (xy 233.68 99.06)
 		)
 		(stroke
 			(width 0)
@@ -1971,7 +3055,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 46.99) (xy 246.38 46.99)
+			(xy 243.84 41.91) (xy 246.38 41.91)
 		)
 		(stroke
 			(width 0)
@@ -2001,6 +3085,16 @@
 	)
 	(wire
 		(pts
+			(xy 63.5 139.7) (xy 66.04 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b5a2e85c-f14a-4b4d-a134-0921547f38b0")
+	)
+	(wire
+		(pts
 			(xy 90.17 44.45) (xy 90.17 46.99)
 		)
 		(stroke
@@ -2011,13 +3105,83 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 82.55) (xy 95.25 96.52)
+			(xy 180.34 116.84) (xy 167.64 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "baef8895-6d6a-4fb8-91bb-3d0bc894372e")
+	)
+	(wire
+		(pts
+			(xy 124.46 116.84) (xy 124.46 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb2cee5d-6c45-4156-885d-a570cf5d9826")
+	)
+	(wire
+		(pts
+			(xy 92.71 116.84) (xy 92.71 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bbecdb32-ca8b-4388-97e1-ccc53417e5fe")
+	)
+	(wire
+		(pts
+			(xy 261.62 55.88) (xy 261.62 69.85)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "bbef1930-7f12-4a3f-8afc-c9767e248204")
+	)
+	(wire
+		(pts
+			(xy 187.96 139.7) (xy 180.34 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bca3df35-2f92-477e-82f6-c2ed2da2d1fd")
+	)
+	(wire
+		(pts
+			(xy 119.38 160.02) (xy 118.11 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c1e0d3e2-7f2d-41ed-ab0c-b50ebf069cd1")
+	)
+	(wire
+		(pts
+			(xy 90.17 139.7) (xy 92.71 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c3024395-96a1-4390-8b76-23cb4a47ed02")
+	)
+	(wire
+		(pts
+			(xy 149.86 129.54) (xy 111.76 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c3f22b04-0035-44c2-a3bb-1f3a135e39e7")
 	)
 	(wire
 		(pts
@@ -2031,13 +3195,33 @@
 	)
 	(wire
 		(pts
-			(xy 107.95 105.41) (xy 111.76 105.41)
+			(xy 274.32 78.74) (xy 278.13 78.74)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "c51399b0-1f3e-41cc-b3a0-944b80fa6e3a")
+	)
+	(wire
+		(pts
+			(xy 48.26 160.02) (xy 48.26 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c654248b-9c45-43f1-8c62-1b86c58c0baf")
+	)
+	(wire
+		(pts
+			(xy 162.56 128.27) (xy 124.46 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c7542140-8869-46b5-b5e9-6c0f54fbff60")
 	)
 	(wire
 		(pts
@@ -2061,7 +3245,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 96.52) (xy 95.25 96.52)
+			(xy 245.11 69.85) (xy 261.62 69.85)
 		)
 		(stroke
 			(width 0)
@@ -2071,7 +3255,7 @@
 	)
 	(wire
 		(pts
-			(xy 200.66 24.13) (xy 200.66 39.37)
+			(xy 200.66 19.05) (xy 200.66 34.29)
 		)
 		(stroke
 			(width 0)
@@ -2081,7 +3265,7 @@
 	)
 	(wire
 		(pts
-			(xy 200.66 24.13) (xy 195.58 24.13)
+			(xy 200.66 19.05) (xy 195.58 19.05)
 		)
 		(stroke
 			(width 0)
@@ -2101,7 +3285,7 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 39.37) (xy 222.25 38.1)
+			(xy 222.25 34.29) (xy 222.25 33.02)
 		)
 		(stroke
 			(width 0)
@@ -2111,7 +3295,7 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 105.41) (xy 111.76 97.79)
+			(xy 278.13 78.74) (xy 278.13 71.12)
 		)
 		(stroke
 			(width 0)
@@ -2121,7 +3305,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 97.79) (xy 101.6 96.52)
+			(xy 267.97 71.12) (xy 267.97 69.85)
 		)
 		(stroke
 			(width 0)
@@ -2131,7 +3315,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 125.73) (xy 60.96 125.73)
+			(xy 229.87 99.06) (xy 227.33 99.06)
 		)
 		(stroke
 			(width 0)
@@ -2141,7 +3325,7 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 96.52) (xy 34.29 97.79)
+			(xy 200.66 69.85) (xy 200.66 71.12)
 		)
 		(stroke
 			(width 0)
@@ -2151,7 +3335,27 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 38.1) (xy 243.84 38.1)
+			(xy 153.67 151.13) (xy 130.81 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d69b0dea-d8d2-4c7f-959a-ff7e0bcc5b37")
+	)
+	(wire
+		(pts
+			(xy 92.71 116.84) (xy 104.14 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d7bed916-7c2e-4376-be20-aff9adc7e85e")
+	)
+	(wire
+		(pts
+			(xy 227.33 33.02) (xy 243.84 33.02)
 		)
 		(stroke
 			(width 0)
@@ -2171,13 +3375,33 @@
 	)
 	(wire
 		(pts
-			(xy 20.32 125.73) (xy 20.32 129.54)
+			(xy 186.69 99.06) (xy 186.69 102.87)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "d8e5ce54-d6f3-4c00-8eaf-365760c01971")
+	)
+	(wire
+		(pts
+			(xy 119.38 152.4) (xy 119.38 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d9fd8ae8-3499-413b-82dd-7785dda3306b")
+	)
+	(wire
+		(pts
+			(xy 27.94 160.02) (xy 33.02 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dbc75503-f58e-401e-a1ee-3cc7744a6cfc")
 	)
 	(wire
 		(pts
@@ -2191,7 +3415,37 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 95.25) (xy 46.99 97.79)
+			(xy 17.78 160.02) (xy 17.78 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd02ea2b-1fa7-428f-918e-424b418e31db")
+	)
+	(wire
+		(pts
+			(xy 148.59 160.02) (xy 148.59 166.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd1ddc80-420b-4e0b-a237-197a4ad60913")
+	)
+	(wire
+		(pts
+			(xy 99.06 132.08) (xy 99.06 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ded7a396-d7eb-41be-b0d2-90e195b542b7")
+	)
+	(wire
+		(pts
+			(xy 213.36 68.58) (xy 213.36 71.12)
 		)
 		(stroke
 			(width 0)
@@ -2201,7 +3455,17 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 36.83) (xy 236.22 36.83)
+			(xy 60.96 149.86) (xy 60.96 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df5ff25e-f7dc-440f-8263-d7559a391578")
+	)
+	(wire
+		(pts
+			(xy 195.58 31.75) (xy 236.22 31.75)
 		)
 		(stroke
 			(width 0)
@@ -2211,7 +3475,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 46.99) (xy 177.8 46.99)
+			(xy 171.45 41.91) (xy 177.8 41.91)
 		)
 		(stroke
 			(width 0)
@@ -2221,7 +3485,27 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 138.43) (xy 46.99 138.43)
+			(xy 104.14 129.54) (xy 104.14 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3d52c35-4406-4bfc-9610-d7346d462158")
+	)
+	(wire
+		(pts
+			(xy 16.51 152.4) (xy 22.86 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3ff1361-174f-4faf-be66-8e93c54766c8")
+	)
+	(wire
+		(pts
+			(xy 229.87 111.76) (xy 213.36 111.76)
 		)
 		(stroke
 			(width 0)
@@ -2231,7 +3515,17 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 97.79) (xy 59.69 97.79)
+			(xy 139.7 152.4) (xy 139.7 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e5b8adac-ee29-41e0-8a0f-7e50cc576ffa")
+	)
+	(wire
+		(pts
+			(xy 218.44 71.12) (xy 226.06 71.12)
 		)
 		(stroke
 			(width 0)
@@ -2251,7 +3545,37 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 38.1) (xy 222.25 38.1)
+			(xy 132.08 139.7) (xy 132.08 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e730c77e-8fc9-428c-975e-56a79d92f5f7")
+	)
+	(wire
+		(pts
+			(xy 180.34 139.7) (xy 180.34 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e870114a-1bfc-473c-b01a-8448627c8285")
+	)
+	(wire
+		(pts
+			(xy 49.53 132.08) (xy 49.53 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea67907e-f2fe-48d7-bdc3-0d1a940f8254")
+	)
+	(wire
+		(pts
+			(xy 182.88 33.02) (xy 222.25 33.02)
 		)
 		(stroke
 			(width 0)
@@ -2261,7 +3585,17 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 96.52) (xy 25.4 118.11)
+			(xy 162.56 160.02) (xy 162.56 166.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea70c201-650b-440d-a105-3fb315aedfd0")
+	)
+	(wire
+		(pts
+			(xy 191.77 69.85) (xy 191.77 91.44)
 		)
 		(stroke
 			(width 0)
@@ -2271,13 +3605,33 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 125.73) (xy 50.8 129.54)
+			(xy 217.17 99.06) (xy 217.17 102.87)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "eb9282fc-899b-471a-92f0-33360acd7a54")
+	)
+	(wire
+		(pts
+			(xy 129.54 132.08) (xy 129.54 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ebcf8c4a-2948-4b1e-bb3e-8a11597ecca5")
+	)
+	(wire
+		(pts
+			(xy 80.01 139.7) (xy 80.01 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec2bc365-af33-4276-beee-911930dfe244")
 	)
 	(wire
 		(pts
@@ -2291,13 +3645,43 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 95.25) (xy 46.99 95.25)
+			(xy 80.01 144.78) (xy 63.5 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f1474028-6000-4d4d-8d72-ae18cb9a2cb1")
+	)
+	(wire
+		(pts
+			(xy 207.01 68.58) (xy 213.36 68.58)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "f3673b4b-1c5b-4fbe-86cb-138aae8cb699")
+	)
+	(wire
+		(pts
+			(xy 149.86 132.08) (xy 149.86 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f421d5c3-c09a-4d58-a4e4-403af6d98bdd")
+	)
+	(wire
+		(pts
+			(xy 44.45 152.4) (xy 44.45 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f4547b96-2ff0-45d9-a22d-9c2c0aa4aa17")
 	)
 	(wire
 		(pts
@@ -2311,13 +3695,23 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 93.98) (xy 46.99 95.25)
+			(xy 213.36 67.31) (xy 213.36 68.58)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "f97faf30-0d55-4463-a380-e622b5d031f3")
+	)
+	(wire
+		(pts
+			(xy 158.75 152.4) (xy 158.75 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f996ff65-6b62-4285-bea9-3a23be46f0c0")
 	)
 	(wire
 		(pts
@@ -2331,7 +3725,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 110.49) (xy 66.04 105.41)
+			(xy 232.41 83.82) (xy 232.41 78.74)
 		)
 		(stroke
 			(width 0)
@@ -2341,7 +3735,7 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 105.41) (xy 66.04 105.41)
+			(xy 231.14 78.74) (xy 232.41 78.74)
 		)
 		(stroke
 			(width 0)
@@ -2349,9 +3743,39 @@
 		)
 		(uuid "fc96dd56-2cc6-4401-8851-295981dcf6f7")
 	)
+	(wire
+		(pts
+			(xy 93.98 139.7) (xy 93.98 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fcb6b4f6-78f4-4268-ade5-c0db6753cfc8")
+	)
+	(wire
+		(pts
+			(xy 104.14 116.84) (xy 104.14 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd10491a-492f-42b3-9820-160e240dc92f")
+	)
+	(wire
+		(pts
+			(xy 167.64 152.4) (xy 158.75 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd9460a2-2dac-446b-9b1f-5ae8a461cb99")
+	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 22.86 82.55 90)
+		(at 189.23 55.88 90)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -2362,7 +3786,7 @@
 		(dnp no)
 		(uuid "041c7668-2a7a-4b9e-8824-2e8f93d60f0d")
 		(property "Reference" "#PWR09"
-			(at 26.67 82.55 0)
+			(at 193.04 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2373,7 +3797,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 17.78 82.55 90)
+			(at 184.15 55.88 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2383,7 +3807,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 22.86 82.55 0)
+			(at 189.23 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2394,7 +3818,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 22.86 82.55 0)
+			(at 189.23 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2405,7 +3829,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 22.86 82.55 0)
+			(at 189.23 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2419,7 +3843,7 @@
 			(uuid "cb954d75-ba3d-4aa4-b2d6-fc75edda1d82")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "#PWR09")
 					(unit 1)
@@ -2429,7 +3853,7 @@
 	)
 	(symbol
 		(lib_id "Simulation_SPICE:NPN")
-		(at 34.29 102.87 270)
+		(at 99.06 137.16 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2437,9 +3861,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "13dd05fc-dded-4c3a-bdb2-b2ad7b783c24")
-		(property "Reference" "Q13"
-			(at 35.5601 107.95 0)
+		(uuid "04cb904c-7395-43f4-9bb1-f4b91ac07db6")
+		(property "Reference" "Q30"
+			(at 100.3301 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2451,7 +3875,7 @@
 			)
 		)
 		(property "Value" "NPN"
-			(at 36.322 108.458 90)
+			(at 101.346 142.748 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2462,7 +3886,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 34.29 166.37 0)
+			(at 99.06 200.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2473,7 +3897,7 @@
 			)
 		)
 		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs"
-			(at 34.29 166.37 0)
+			(at 99.06 200.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2484,7 +3908,7 @@
 			)
 		)
 		(property "Description" "Bipolar transistor symbol for simulation only, substrate tied to the emitter"
-			(at 34.29 102.87 0)
+			(at 99.06 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2495,7 +3919,7 @@
 			)
 		)
 		(property "Sim.Device" "NPN"
-			(at 34.29 102.87 0)
+			(at 99.06 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2506,7 +3930,7 @@
 			)
 		)
 		(property "Sim.Type" "GUMMELPOON"
-			(at 34.29 102.87 0)
+			(at 99.06 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2517,7 +3941,479 @@
 			)
 		)
 		(property "Sim.Pins" "1=C 2=B 3=E"
-			(at 34.29 102.87 0)
+			(at 99.06 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "3db2771f-03af-44e2-8fe8-f75a21cae738")
+		)
+		(pin "2"
+			(uuid "ca542c94-1d5e-4858-989e-d2d1b4ebc01d")
+		)
+		(pin "1"
+			(uuid "29975a0c-3fff-4570-a60e-d21b43a3572a")
+		)
+		(instances
+			(project "_autosave-8-bit_processor"
+				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
+					(reference "Q30")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Simulation_SPICE:NPN")
+		(at 38.1 157.48 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "07df6a2e-00db-4550-8ab5-06fc2caabad3")
+		(property "Reference" "Q24"
+			(at 39.3701 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "NPN"
+			(at 40.132 163.068 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 38.1 220.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs"
+			(at 38.1 220.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Bipolar transistor symbol for simulation only, substrate tied to the emitter"
+			(at 38.1 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "NPN"
+			(at 38.1 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" "GUMMELPOON"
+			(at 38.1 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=C 2=B 3=E"
+			(at 38.1 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "b21dd976-9f3d-4a95-a15c-7dcd20cc88e9")
+		)
+		(pin "2"
+			(uuid "d165a08e-7389-4387-a6da-b38bd9008fcb")
+		)
+		(pin "1"
+			(uuid "cd7bc493-4efe-4187-b6b8-f7d530a78652")
+		)
+		(instances
+			(project "_autosave-8-bit_processor"
+				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
+					(reference "Q24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Simulation_SPICE:NPN")
+		(at 85.09 137.16 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "0e688555-767d-4bd8-9190-85cb012fa4ac")
+		(property "Reference" "Q29"
+			(at 86.3601 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "NPN"
+			(at 87.376 142.748 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 85.09 200.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs"
+			(at 85.09 200.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Bipolar transistor symbol for simulation only, substrate tied to the emitter"
+			(at 85.09 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "NPN"
+			(at 85.09 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" "GUMMELPOON"
+			(at 85.09 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=C 2=B 3=E"
+			(at 85.09 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "3ea02e79-9376-40ac-84f6-e5f63504252e")
+		)
+		(pin "2"
+			(uuid "0cf51378-6b9a-4455-afc2-ae431eea11eb")
+		)
+		(pin "1"
+			(uuid "a76522f4-717b-4ceb-9ebb-6a6d2c6c3dba")
+		)
+		(instances
+			(project "_autosave-8-bit_processor"
+				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
+					(reference "Q29")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Simulation_SPICE:NPN")
+		(at 175.26 137.16 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "0f8adb61-bbaa-4eb5-b2e3-d5d6a5138c32")
+		(property "Reference" "Q36"
+			(at 176.5301 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "NPN"
+			(at 177.546 142.748 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 175.26 200.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs"
+			(at 175.26 200.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Bipolar transistor symbol for simulation only, substrate tied to the emitter"
+			(at 175.26 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "NPN"
+			(at 175.26 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" "GUMMELPOON"
+			(at 175.26 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=C 2=B 3=E"
+			(at 175.26 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "60e2d7c2-1ee0-4fc4-842a-55e0435e14ca")
+		)
+		(pin "2"
+			(uuid "8453a547-1b9d-457d-8ad3-9271c3c4b8cf")
+		)
+		(pin "1"
+			(uuid "c782b8e7-6e35-4619-aed2-0a9d82108450")
+		)
+		(instances
+			(project "_autosave-8-bit_processor"
+				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
+					(reference "Q36")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Simulation_SPICE:NPN")
+		(at 200.66 76.2 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "13dd05fc-dded-4c3a-bdb2-b2ad7b783c24")
+		(property "Reference" "Q13"
+			(at 201.9301 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "NPN"
+			(at 202.692 81.788 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 200.66 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs"
+			(at 200.66 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Bipolar transistor symbol for simulation only, substrate tied to the emitter"
+			(at 200.66 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "NPN"
+			(at 200.66 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" "GUMMELPOON"
+			(at 200.66 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=C 2=B 3=E"
+			(at 200.66 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2537,7 +4433,7 @@
 			(uuid "07ad1ee9-e563-4c39-b4c9-ba48e74db065")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "Q13")
 					(unit 1)
@@ -2547,7 +4443,7 @@
 	)
 	(symbol
 		(lib_id "Simulation_SPICE:NPN")
-		(at 87.63 102.87 270)
+		(at 254 76.2 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2557,7 +4453,7 @@
 		(dnp no)
 		(uuid "1461623d-75d9-4957-8444-ff022f898838")
 		(property "Reference" "Q17"
-			(at 88.9001 107.95 0)
+			(at 255.2701 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2569,7 +4465,7 @@
 			)
 		)
 		(property "Value" "NPN"
-			(at 89.916 108.458 90)
+			(at 256.286 81.788 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2580,7 +4476,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 87.63 166.37 0)
+			(at 254 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2591,7 +4487,7 @@
 			)
 		)
 		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs"
-			(at 87.63 166.37 0)
+			(at 254 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2602,7 +4498,7 @@
 			)
 		)
 		(property "Description" "Bipolar transistor symbol for simulation only, substrate tied to the emitter"
-			(at 87.63 102.87 0)
+			(at 254 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2613,7 +4509,7 @@
 			)
 		)
 		(property "Sim.Device" "NPN"
-			(at 87.63 102.87 0)
+			(at 254 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2624,7 +4520,7 @@
 			)
 		)
 		(property "Sim.Type" "GUMMELPOON"
-			(at 87.63 102.87 0)
+			(at 254 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2635,7 +4531,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=C 2=B 3=E"
-			(at 87.63 102.87 0)
+			(at 254 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2655,7 +4551,7 @@
 			(uuid "5ec9cf0e-3f30-4605-bafc-eeea62a64eac")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "Q17")
 					(unit 1)
@@ -2665,7 +4561,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 22.86 105.41 270)
+		(at 25.4 139.7 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2673,9 +4569,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "17c4ce7f-42e8-4dff-9386-7cae82fdfaf4")
-		(property "Reference" "#PWR010"
-			(at 16.51 105.41 0)
+		(uuid "15b8772a-0daf-4254-b997-6c1d23fda95f")
+		(property "Reference" "#PWR021"
+			(at 19.05 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2686,7 +4582,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 17.78 105.41 90)
+			(at 20.32 139.7 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2696,7 +4592,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 22.86 105.41 0)
+			(at 25.4 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2707,7 +4603,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 22.86 105.41 0)
+			(at 25.4 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2718,7 +4614,84 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 22.86 105.41 0)
+			(at 25.4 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "92b14182-4e1e-4371-99f0-a4607f59e333")
+		)
+		(instances
+			(project "_autosave-8-bit_processor"
+				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
+					(reference "#PWR021")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 189.23 78.74 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "17c4ce7f-42e8-4dff-9386-7cae82fdfaf4")
+		(property "Reference" "#PWR010"
+			(at 182.88 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 184.15 78.74 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 189.23 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 189.23 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 189.23 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2732,7 +4705,7 @@
 			(uuid "8e006460-b8c3-40a1-972f-05246ac2a957")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "#PWR010")
 					(unit 1)
@@ -2741,9 +4714,8 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+5V")
-		(at 21.59 138.43 90)
-		(mirror x)
+		(lib_id "power:GND")
+		(at 170.18 144.78 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2751,9 +4723,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "218f8687-255c-42d0-b7ac-2b8a800ef42e")
-		(property "Reference" "#PWR017"
-			(at 25.4 138.43 0)
+		(uuid "1e641fd9-c592-4a7e-9ea9-37b81ac52109")
+		(property "Reference" "#PWR029"
+			(at 170.18 151.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2763,8 +4735,8 @@
 				)
 			)
 		)
-		(property "Value" "+5V"
-			(at 16.51 138.43 90)
+		(property "Value" "GND"
+			(at 170.18 148.844 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2774,7 +4746,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 21.59 138.43 0)
+			(at 170.18 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2785,7 +4757,85 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 21.59 138.43 0)
+			(at 170.18 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 170.18 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d4010503-66e5-414b-8ea3-0fff068eeec5")
+		)
+		(instances
+			(project "_autosave-8-bit_processor"
+				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
+					(reference "#PWR029")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 187.96 111.76 90)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "218f8687-255c-42d0-b7ac-2b8a800ef42e")
+		(property "Reference" "#PWR017"
+			(at 191.77 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 182.88 111.76 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 187.96 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 187.96 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2796,7 +4846,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 21.59 138.43 0)
+			(at 187.96 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2810,7 +4860,7 @@
 			(uuid "246e0ec6-1ebc-485c-984c-5a8e29bdb1a3")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "#PWR017")
 					(unit 1)
@@ -2820,7 +4870,8 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 54.61 109.22 0)
+		(at 187.96 124.46 0)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2828,9 +4879,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "2914eb6e-e344-485c-b214-c11606780542")
-		(property "Reference" "#PWR011"
-			(at 54.61 115.57 0)
+		(uuid "23885e6e-ec8e-42f3-8ab2-92c07d59ce65")
+		(property "Reference" "#PWR026"
+			(at 187.96 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2841,7 +4892,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 54.61 113.284 0)
+			(at 187.96 120.396 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2851,7 +4902,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 54.61 109.22 0)
+			(at 187.96 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2862,7 +4913,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 54.61 109.22 0)
+			(at 187.96 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2873,7 +4924,202 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 54.61 109.22 0)
+			(at 187.96 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d9d861b0-31f7-4b97-9c76-9e5ab40b1406")
+		)
+		(instances
+			(project "_autosave-8-bit_processor"
+				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
+					(reference "#PWR026")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Simulation_SPICE:NPN")
+		(at 153.67 157.48 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "24780327-a343-4eb3-93d1-06ce2fb2f11b")
+		(property "Reference" "Q41"
+			(at 154.9401 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "NPN"
+			(at 155.956 163.068 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 153.67 220.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs"
+			(at 153.67 220.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Bipolar transistor symbol for simulation only, substrate tied to the emitter"
+			(at 153.67 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "NPN"
+			(at 153.67 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" "GUMMELPOON"
+			(at 153.67 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=C 2=B 3=E"
+			(at 153.67 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "5cdeff7a-1037-4fa7-bc40-911ba23d0b03")
+		)
+		(pin "2"
+			(uuid "a7fec8cc-9a48-46b3-9d59-0d8ea7cd9d48")
+		)
+		(pin "1"
+			(uuid "e0b1019f-4edd-471c-8040-fe17cc743211")
+		)
+		(instances
+			(project "_autosave-8-bit_processor"
+				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
+					(reference "Q41")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 220.98 82.55 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "2914eb6e-e344-485c-b214-c11606780542")
+		(property "Reference" "#PWR011"
+			(at 220.98 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 220.98 86.614 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 220.98 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 220.98 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 220.98 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2887,7 +5133,7 @@
 			(uuid "36eb20a7-2421-4587-9ba8-d52b8c54e15c")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "#PWR011")
 					(unit 1)
@@ -2897,7 +5143,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 50.8 129.54 0)
+		(at 217.17 102.87 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2907,7 +5153,7 @@
 		(dnp no)
 		(uuid "298a8fce-188a-4ad0-9c96-ab8104e2ca0c")
 		(property "Reference" "#PWR015"
-			(at 50.8 135.89 0)
+			(at 217.17 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2918,7 +5164,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 50.8 133.604 0)
+			(at 217.17 106.934 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2928,7 +5174,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 50.8 129.54 0)
+			(at 217.17 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2939,7 +5185,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 50.8 129.54 0)
+			(at 217.17 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2950,7 +5196,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 50.8 129.54 0)
+			(at 217.17 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2964,7 +5210,7 @@
 			(uuid "36eba1bb-3009-4550-b039-d9a8a6a12adc")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "#PWR015")
 					(unit 1)
@@ -2973,8 +5219,89 @@
 		)
 	)
 	(symbol
+		(lib_id "Switch:SW_SPST")
+		(at 31.75 123.19 90)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "307b37e4-0509-4f3e-8407-2fcb909ef6d8")
+		(property "Reference" "B5"
+			(at 26.416 123.698 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_SPST"
+			(at 27.94 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 31.75 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 31.75 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 31.75 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "b11a08af-5a3d-42e5-b922-c24d59cbe44e")
+		)
+		(pin "1"
+			(uuid "a5dc36f2-1a76-4b31-af4c-64d72ed4ea24")
+		)
+		(instances
+			(project "_autosave-8-bit_processor"
+				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
+					(reference "B5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Simulation_SPICE:NPN")
-		(at 73.66 102.87 270)
+		(at 240.03 76.2 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2984,7 +5311,7 @@
 		(dnp no)
 		(uuid "3ad3be41-177a-444d-bd9a-231b3180892f")
 		(property "Reference" "Q16"
-			(at 74.9301 107.95 0)
+			(at 241.3001 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2996,7 +5323,7 @@
 			)
 		)
 		(property "Value" "NPN"
-			(at 71.628 108.712 90)
+			(at 237.998 82.042 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3007,7 +5334,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 73.66 166.37 0)
+			(at 240.03 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3018,7 +5345,7 @@
 			)
 		)
 		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs"
-			(at 73.66 166.37 0)
+			(at 240.03 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3029,7 +5356,7 @@
 			)
 		)
 		(property "Description" "Bipolar transistor symbol for simulation only, substrate tied to the emitter"
-			(at 73.66 102.87 0)
+			(at 240.03 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3040,7 +5367,7 @@
 			)
 		)
 		(property "Sim.Device" "NPN"
-			(at 73.66 102.87 0)
+			(at 240.03 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3051,7 +5378,7 @@
 			)
 		)
 		(property "Sim.Type" "GUMMELPOON"
-			(at 73.66 102.87 0)
+			(at 240.03 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3062,7 +5389,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=C 2=B 3=E"
-			(at 73.66 102.87 0)
+			(at 240.03 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3082,9 +5409,127 @@
 			(uuid "1b58af82-ebe6-47c5-a134-7e91e0140f75")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "Q16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Simulation_SPICE:NPN")
+		(at 162.56 137.16 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "3d5296d8-d652-4f74-990e-d155387a0ef4")
+		(property "Reference" "Q35"
+			(at 163.8301 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "NPN"
+			(at 164.846 142.748 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 162.56 200.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs"
+			(at 162.56 200.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Bipolar transistor symbol for simulation only, substrate tied to the emitter"
+			(at 162.56 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "NPN"
+			(at 162.56 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" "GUMMELPOON"
+			(at 162.56 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=C 2=B 3=E"
+			(at 162.56 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "024e3762-767d-4ea6-aeba-927a4e883ed8")
+		)
+		(pin "2"
+			(uuid "c8776a50-0220-4af9-95e3-1f1d4a485686")
+		)
+		(pin "1"
+			(uuid "8c81831e-6184-4b57-8f1a-9b708d9a10cb")
+		)
+		(instances
+			(project "_autosave-8-bit_processor"
+				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
+					(reference "Q35")
 					(unit 1)
 				)
 			)
@@ -3159,7 +5604,7 @@
 			(uuid "1710d8c7-fe42-45e7-8ed0-c4db8affd5c3")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "#PWR05")
 					(unit 1)
@@ -3236,9 +5681,127 @@
 			(uuid "8512205c-c2f1-4ea5-8993-f088fecf1335")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "#PWR01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Simulation_SPICE:NPN")
+		(at 149.86 137.16 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "440cded4-4e5c-4983-97b4-4424c9fb6877")
+		(property "Reference" "Q34"
+			(at 151.1301 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "NPN"
+			(at 147.828 143.002 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 149.86 200.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs"
+			(at 149.86 200.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Bipolar transistor symbol for simulation only, substrate tied to the emitter"
+			(at 149.86 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "NPN"
+			(at 149.86 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" "GUMMELPOON"
+			(at 149.86 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=C 2=B 3=E"
+			(at 149.86 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "be6716ad-e3a3-4628-ae52-acf6dd05baf2")
+		)
+		(pin "2"
+			(uuid "70378720-6df0-467c-9d95-21c67f24cc17")
+		)
+		(pin "1"
+			(uuid "dd917b43-a0fe-4593-8132-763778e78e43")
+		)
+		(instances
+			(project "_autosave-8-bit_processor"
+				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
+					(reference "Q34")
 					(unit 1)
 				)
 			)
@@ -3313,7 +5876,7 @@
 			(uuid "b00be329-59db-4c4f-9efa-4f86ddfe9987")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "#PWR06")
 					(unit 1)
@@ -3323,7 +5886,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 250.19 46.99 0)
+		(at 250.19 41.91 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3333,7 +5896,7 @@
 		(dnp no)
 		(uuid "4d0396bd-f38a-4426-acde-b7731cbd4fc1")
 		(property "Reference" "D4"
-			(at 248.6025 40.64 0)
+			(at 248.6025 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3344,7 +5907,7 @@
 			)
 		)
 		(property "Value" "OUT"
-			(at 248.6025 43.18 0)
+			(at 248.6025 38.1 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3354,7 +5917,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 250.19 46.99 0)
+			(at 250.19 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3365,7 +5928,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 250.19 46.99 0)
+			(at 250.19 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3376,7 +5939,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 250.19 46.99 0)
+			(at 250.19 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3387,7 +5950,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 250.19 46.99 0)
+			(at 250.19 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3404,7 +5967,7 @@
 			(uuid "7660cef3-8416-4932-8d02-6248fa2b4e29")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "D4")
 					(unit 1)
@@ -3414,7 +5977,7 @@
 	)
 	(symbol
 		(lib_id "Simulation_SPICE:NPN")
-		(at 25.4 123.19 270)
+		(at 191.77 96.52 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3424,7 +5987,7 @@
 		(dnp no)
 		(uuid "4d3831bd-a8d2-4e51-adbf-106f5d6ecfdf")
 		(property "Reference" "Q18"
-			(at 26.6701 128.27 0)
+			(at 193.0401 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3436,7 +5999,7 @@
 			)
 		)
 		(property "Value" "NPN"
-			(at 27.432 128.778 90)
+			(at 193.802 102.108 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3447,7 +6010,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 25.4 186.69 0)
+			(at 191.77 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3458,7 +6021,7 @@
 			)
 		)
 		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs"
-			(at 25.4 186.69 0)
+			(at 191.77 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3469,7 +6032,7 @@
 			)
 		)
 		(property "Description" "Bipolar transistor symbol for simulation only, substrate tied to the emitter"
-			(at 25.4 123.19 0)
+			(at 191.77 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3480,7 +6043,7 @@
 			)
 		)
 		(property "Sim.Device" "NPN"
-			(at 25.4 123.19 0)
+			(at 191.77 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3491,7 +6054,7 @@
 			)
 		)
 		(property "Sim.Type" "GUMMELPOON"
-			(at 25.4 123.19 0)
+			(at 191.77 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3502,7 +6065,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=C 2=B 3=E"
-			(at 25.4 123.19 0)
+			(at 191.77 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3522,7 +6085,7 @@
 			(uuid "d3441f27-ad18-494d-b3e2-2915d0b648cd")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "Q18")
 					(unit 1)
@@ -3532,7 +6095,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 171.45 46.99 270)
+		(at 171.45 41.91 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3542,7 +6105,7 @@
 		(dnp no)
 		(uuid "524a19a3-f17c-48bc-b61b-f389d0381335")
 		(property "Reference" "#PWR08"
-			(at 165.1 46.99 0)
+			(at 165.1 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3553,7 +6116,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 166.37 46.99 90)
+			(at 166.37 41.91 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3563,7 +6126,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 171.45 46.99 0)
+			(at 171.45 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3574,7 +6137,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 171.45 46.99 0)
+			(at 171.45 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3585,7 +6148,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 171.45 46.99 0)
+			(at 171.45 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3599,7 +6162,7 @@
 			(uuid "cc5578b8-653e-4739-99ae-0c2e197bfbbb")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "#PWR08")
 					(unit 1)
@@ -3609,7 +6172,7 @@
 	)
 	(symbol
 		(lib_id "Simulation_SPICE:NPN")
-		(at 236.22 44.45 270)
+		(at 44.45 137.16 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3617,9 +6180,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "55177fc7-fdaa-4bf6-b695-5d3448af28bd")
-		(property "Reference" "Q12"
-			(at 237.4901 49.53 0)
+		(uuid "52f8a192-1805-4a09-aaf1-31e362becc36")
+		(property "Reference" "Q25"
+			(at 45.7201 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3631,7 +6194,7 @@
 			)
 		)
 		(property "Value" "NPN"
-			(at 238.506 50.038 90)
+			(at 46.482 143.002 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3642,7 +6205,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 236.22 107.95 0)
+			(at 44.45 200.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3653,7 +6216,7 @@
 			)
 		)
 		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs"
-			(at 236.22 107.95 0)
+			(at 44.45 200.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3664,7 +6227,7 @@
 			)
 		)
 		(property "Description" "Bipolar transistor symbol for simulation only, substrate tied to the emitter"
-			(at 236.22 44.45 0)
+			(at 44.45 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3675,7 +6238,7 @@
 			)
 		)
 		(property "Sim.Device" "NPN"
-			(at 236.22 44.45 0)
+			(at 44.45 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3686,7 +6249,7 @@
 			)
 		)
 		(property "Sim.Type" "GUMMELPOON"
-			(at 236.22 44.45 0)
+			(at 44.45 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3697,7 +6260,125 @@
 			)
 		)
 		(property "Sim.Pins" "1=C 2=B 3=E"
-			(at 236.22 44.45 0)
+			(at 44.45 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "bc01c05d-2dd6-4964-8b16-46fb6b7144e5")
+		)
+		(pin "2"
+			(uuid "ea2a0202-1b1f-4975-9f09-ebbe53c22867")
+		)
+		(pin "1"
+			(uuid "c475f90b-2867-4ffb-a511-d6029412b9a9")
+		)
+		(instances
+			(project "_autosave-8-bit_processor"
+				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
+					(reference "Q25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Simulation_SPICE:NPN")
+		(at 236.22 39.37 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "55177fc7-fdaa-4bf6-b695-5d3448af28bd")
+		(property "Reference" "Q12"
+			(at 237.4901 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "NPN"
+			(at 238.506 44.958 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 236.22 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs"
+			(at 236.22 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Bipolar transistor symbol for simulation only, substrate tied to the emitter"
+			(at 236.22 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "NPN"
+			(at 236.22 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" "GUMMELPOON"
+			(at 236.22 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=C 2=B 3=E"
+			(at 236.22 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3717,7 +6398,7 @@
 			(uuid "fcb712f2-7dd8-4eb7-9c53-ca8cb449a688")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "Q12")
 					(unit 1)
@@ -3727,7 +6408,7 @@
 	)
 	(symbol
 		(lib_id "Simulation_SPICE:NPN")
-		(at 40.64 123.19 270)
+		(at 207.01 96.52 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3737,7 +6418,7 @@
 		(dnp no)
 		(uuid "5b174a6a-577f-4860-a727-79e5d52cabc7")
 		(property "Reference" "Q19"
-			(at 41.9101 128.27 0)
+			(at 208.2801 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3749,7 +6430,7 @@
 			)
 		)
 		(property "Value" "NPN"
-			(at 42.672 128.778 90)
+			(at 209.042 102.108 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3760,7 +6441,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 40.64 186.69 0)
+			(at 207.01 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3771,7 +6452,7 @@
 			)
 		)
 		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs"
-			(at 40.64 186.69 0)
+			(at 207.01 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3782,7 +6463,7 @@
 			)
 		)
 		(property "Description" "Bipolar transistor symbol for simulation only, substrate tied to the emitter"
-			(at 40.64 123.19 0)
+			(at 207.01 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3793,7 +6474,7 @@
 			)
 		)
 		(property "Sim.Device" "NPN"
-			(at 40.64 123.19 0)
+			(at 207.01 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3804,7 +6485,7 @@
 			)
 		)
 		(property "Sim.Type" "GUMMELPOON"
-			(at 40.64 123.19 0)
+			(at 207.01 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3815,7 +6496,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=C 2=B 3=E"
-			(at 40.64 123.19 0)
+			(at 207.01 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3835,7 +6516,7 @@
 			(uuid "ee0d4f6a-5105-4db6-803d-41cf93890656")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "Q19")
 					(unit 1)
@@ -3845,7 +6526,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPST")
-		(at 182.88 30.48 90)
+		(at 182.88 25.4 90)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -3856,7 +6537,7 @@
 		(dnp no)
 		(uuid "5bc7e28e-c573-4122-b1f7-bc0a614771de")
 		(property "Reference" "B3"
-			(at 177.546 30.988 0)
+			(at 177.546 25.908 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3866,7 +6547,7 @@
 			)
 		)
 		(property "Value" "SW_SPST"
-			(at 179.07 30.48 0)
+			(at 179.07 25.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3877,7 +6558,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 182.88 30.48 0)
+			(at 182.88 25.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3888,7 +6569,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 182.88 30.48 0)
+			(at 182.88 25.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3899,7 +6580,7 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
-			(at 182.88 30.48 0)
+			(at 182.88 25.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3916,7 +6597,7 @@
 			(uuid "e058e2c8-d7d1-44a1-a7be-71ef62b863a2")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "B3")
 					(unit 1)
@@ -4034,7 +6715,7 @@
 			(uuid "e8f34545-1283-47e7-b5c0-1063c3181bc5")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "Q7")
 					(unit 1)
@@ -4043,9 +6724,8 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 111.76 83.82 0)
-		(mirror x)
+		(lib_id "Simulation_SPICE:NPN")
+		(at 100.33 157.48 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4053,9 +6733,32 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "7577c302-0546-4fb7-981a-f7716ff573d6")
-		(property "Reference" "#PWR012"
-			(at 111.76 77.47 0)
+		(uuid "6936e7fd-5eff-4510-989c-6122615399a2")
+		(property "Reference" "Q37"
+			(at 101.6001 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "NPN"
+			(at 102.362 163.068 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 100.33 220.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4065,8 +6768,340 @@
 				)
 			)
 		)
-		(property "Value" "GND"
-			(at 111.76 79.756 0)
+		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs"
+			(at 100.33 220.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Bipolar transistor symbol for simulation only, substrate tied to the emitter"
+			(at 100.33 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "NPN"
+			(at 100.33 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" "GUMMELPOON"
+			(at 100.33 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=C 2=B 3=E"
+			(at 100.33 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "ff897538-8b14-45aa-ba83-51b703cdb50f")
+		)
+		(pin "2"
+			(uuid "96eb9d16-a964-4ede-9875-1d5720db12ee")
+		)
+		(pin "1"
+			(uuid "102dc6a5-17f8-425f-b7b2-72c376f4cc9b")
+		)
+		(instances
+			(project "_autosave-8-bit_processor"
+				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
+					(reference "Q37")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Simulation_SPICE:NPN")
+		(at 137.16 137.16 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "6ee93f11-4fba-4903-aec4-74786fe9ac13")
+		(property "Reference" "Q33"
+			(at 138.4301 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "NPN"
+			(at 139.192 143.002 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 137.16 200.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs"
+			(at 137.16 200.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Bipolar transistor symbol for simulation only, substrate tied to the emitter"
+			(at 137.16 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "NPN"
+			(at 137.16 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" "GUMMELPOON"
+			(at 137.16 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=C 2=B 3=E"
+			(at 137.16 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "1fdbe610-63ab-4b45-836b-4bcdf27170c8")
+		)
+		(pin "2"
+			(uuid "2fa999fb-11bd-4cee-80f0-ec100264ca61")
+		)
+		(pin "1"
+			(uuid "e423ff89-cbf2-4fd6-98cc-ef12b4df6c26")
+		)
+		(instances
+			(project "_autosave-8-bit_processor"
+				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
+					(reference "Q33")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Simulation_SPICE:NPN")
+		(at 111.76 137.16 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "71a5773d-ad16-4b4a-9a72-befc05ef9563")
+		(property "Reference" "Q31"
+			(at 113.0301 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "NPN"
+			(at 113.792 142.748 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 111.76 200.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs"
+			(at 111.76 200.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Bipolar transistor symbol for simulation only, substrate tied to the emitter"
+			(at 111.76 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "NPN"
+			(at 111.76 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" "GUMMELPOON"
+			(at 111.76 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=C 2=B 3=E"
+			(at 111.76 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "fe63aa5d-c98d-4604-ad5a-6051e6005204")
+		)
+		(pin "2"
+			(uuid "4cb33386-71f8-4d60-b5aa-271a0eb6e4c5")
+		)
+		(pin "1"
+			(uuid "0325b47d-5830-48bf-9bee-f2f2e0bce482")
+		)
+		(instances
+			(project "_autosave-8-bit_processor"
+				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
+					(reference "Q31")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 20.32 116.84 90)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "73f85535-0f2f-45b7-9324-2775e38be85f")
+		(property "Reference" "#PWR020"
+			(at 24.13 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 15.24 116.84 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4076,7 +7111,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 111.76 83.82 0)
+			(at 20.32 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4087,7 +7122,85 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 111.76 83.82 0)
+			(at 20.32 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 20.32 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4df4a6be-12e7-47ff-95ec-83a500ce7ec1")
+		)
+		(instances
+			(project "_autosave-8-bit_processor"
+				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
+					(reference "#PWR020")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 278.13 57.15 0)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "7577c302-0546-4fb7-981a-f7716ff573d6")
+		(property "Reference" "#PWR012"
+			(at 278.13 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 278.13 53.086 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 278.13 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 278.13 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4098,7 +7211,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 111.76 83.82 0)
+			(at 278.13 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4112,7 +7225,7 @@
 			(uuid "45e9080e-4513-4c3d-a181-75b3549d7ff2")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "#PWR012")
 					(unit 1)
@@ -4122,7 +7235,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 96.52 110.49 0)
+		(at 262.89 83.82 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4132,7 +7245,7 @@
 		(dnp no)
 		(uuid "77c5e1d5-d27d-4c58-a94b-b12c299c9412")
 		(property "Reference" "#PWR013"
-			(at 96.52 116.84 0)
+			(at 262.89 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4143,7 +7256,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 96.52 114.554 0)
+			(at 262.89 87.884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4153,7 +7266,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 96.52 110.49 0)
+			(at 262.89 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4164,7 +7277,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 96.52 110.49 0)
+			(at 262.89 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4175,7 +7288,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 96.52 110.49 0)
+			(at 262.89 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4189,7 +7302,7 @@
 			(uuid "7c8457ba-9589-49b7-9af6-4fedfefce003")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "#PWR013")
 					(unit 1)
@@ -4198,8 +7311,126 @@
 		)
 	)
 	(symbol
+		(lib_id "Simulation_SPICE:NPN")
+		(at 167.64 157.48 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "78bdc846-f4d0-4eee-8c58-e57af0912d43")
+		(property "Reference" "Q42"
+			(at 168.9101 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "NPN"
+			(at 169.926 163.068 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 167.64 220.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs"
+			(at 167.64 220.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Bipolar transistor symbol for simulation only, substrate tied to the emitter"
+			(at 167.64 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "NPN"
+			(at 167.64 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" "GUMMELPOON"
+			(at 167.64 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=C 2=B 3=E"
+			(at 167.64 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "62153009-27df-440c-9430-b023c31f29d6")
+		)
+		(pin "2"
+			(uuid "9aefeb9e-5cc9-4cee-bea9-400537055907")
+		)
+		(pin "1"
+			(uuid "78e80949-80ca-49e1-ae96-92749643c471")
+		)
+		(instances
+			(project "_autosave-8-bit_processor"
+				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
+					(reference "Q42")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:LED")
-		(at 71.12 125.73 0)
+		(at 237.49 99.06 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -4210,7 +7441,7 @@
 		(dnp no)
 		(uuid "7a0acdbb-2765-4655-99a8-c7522845b62e")
 		(property "Reference" "D6"
-			(at 72.7075 119.38 0)
+			(at 239.0775 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4221,7 +7452,7 @@
 			)
 		)
 		(property "Value" "OUT"
-			(at 72.7075 121.92 0)
+			(at 239.0775 95.25 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4231,7 +7462,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 71.12 125.73 0)
+			(at 237.49 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4242,7 +7473,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 71.12 125.73 0)
+			(at 237.49 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4253,7 +7484,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 71.12 125.73 0)
+			(at 237.49 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4264,7 +7495,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 71.12 125.73 0)
+			(at 237.49 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4281,7 +7512,7 @@
 			(uuid "df8dec8d-e137-4bfc-a46b-7cdcc4032b41")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "D6")
 					(unit 1)
@@ -4290,9 +7521,9 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_SPST")
-		(at 195.58 30.48 90)
-		(mirror x)
+		(lib_id "Device:LED")
+		(at 182.88 160.02 0)
+		(mirror y)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4300,19 +7531,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "8303d1c9-acc1-438e-a066-e6fdb85ddd56")
-		(property "Reference" "A3"
-			(at 190.246 30.988 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_SPST"
-			(at 191.77 30.48 0)
+		(uuid "804ec0e5-8c5e-454e-be23-c0e25aeb8ca3")
+		(property "Reference" "D7"
+			(at 184.4675 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4322,8 +7543,18 @@
 				)
 			)
 		)
+		(property "Value" "OUT"
+			(at 184.4675 156.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Footprint" ""
-			(at 195.58 30.48 0)
+			(at 182.88 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4334,7 +7565,99 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 195.58 30.48 0)
+			(at 182.88 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 182.88 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 182.88 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e54c8bce-a969-4609-929d-74f045d52223")
+		)
+		(pin "2"
+			(uuid "01b6416e-4d02-4ac5-8b18-630e0aaca641")
+		)
+		(instances
+			(project "_autosave-8-bit_processor"
+				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
+					(reference "D7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_SPST")
+		(at 195.58 25.4 90)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "8303d1c9-acc1-438e-a066-e6fdb85ddd56")
+		(property "Reference" "A3"
+			(at 190.246 25.908 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_SPST"
+			(at 191.77 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 195.58 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 195.58 25.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4345,7 +7668,7 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
-			(at 195.58 30.48 0)
+			(at 195.58 25.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4362,7 +7685,7 @@
 			(uuid "a14fbf56-6bc5-44f6-968b-0fb4c853bd63")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "A3")
 					(unit 1)
@@ -4372,7 +7695,7 @@
 	)
 	(symbol
 		(lib_id "Simulation_SPICE:NPN")
-		(at 195.58 44.45 270)
+		(at 195.58 39.37 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4382,7 +7705,7 @@
 		(dnp no)
 		(uuid "85db992e-a5f8-43f0-a172-61b37ac5a977")
 		(property "Reference" "Q8"
-			(at 196.8501 49.53 0)
+			(at 196.8501 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4394,7 +7717,7 @@
 			)
 		)
 		(property "Value" "NPN"
-			(at 197.612 50.292 90)
+			(at 197.612 45.212 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4405,7 +7728,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 195.58 107.95 0)
+			(at 195.58 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4416,7 +7739,7 @@
 			)
 		)
 		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs"
-			(at 195.58 107.95 0)
+			(at 195.58 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4427,7 +7750,7 @@
 			)
 		)
 		(property "Description" "Bipolar transistor symbol for simulation only, substrate tied to the emitter"
-			(at 195.58 44.45 0)
+			(at 195.58 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4438,7 +7761,7 @@
 			)
 		)
 		(property "Sim.Device" "NPN"
-			(at 195.58 44.45 0)
+			(at 195.58 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4449,7 +7772,7 @@
 			)
 		)
 		(property "Sim.Type" "GUMMELPOON"
-			(at 195.58 44.45 0)
+			(at 195.58 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4460,7 +7783,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=C 2=B 3=E"
-			(at 195.58 44.45 0)
+			(at 195.58 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4480,7 +7803,7 @@
 			(uuid "026433cb-ed16-405d-8d66-6d3f80e7415f")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "Q8")
 					(unit 1)
@@ -4557,9 +7880,204 @@
 			(uuid "d0cf51a0-b8bd-44ab-926d-aa005db7bf97")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Simulation_SPICE:NPN")
+		(at 22.86 157.48 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "8e33adb7-ec43-4ced-9af2-79097f0d922c")
+		(property "Reference" "Q22"
+			(at 24.1301 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "NPN"
+			(at 24.892 163.068 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 22.86 220.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs"
+			(at 22.86 220.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Bipolar transistor symbol for simulation only, substrate tied to the emitter"
+			(at 22.86 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "NPN"
+			(at 22.86 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" "GUMMELPOON"
+			(at 22.86 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=C 2=B 3=E"
+			(at 22.86 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "578e197b-a19c-4266-a338-d8f6eb2a753d")
+		)
+		(pin "2"
+			(uuid "043e0d2b-cb80-4539-b856-6a69593dd30a")
+		)
+		(pin "1"
+			(uuid "c260d080-3f7d-4de9-9f2e-1663caf8d2d3")
+		)
+		(instances
+			(project "_autosave-8-bit_processor"
+				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
+					(reference "Q22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 132.08 144.78 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "8e36798f-ed5d-461a-a63b-abf6f1d96996")
+		(property "Reference" "#PWR028"
+			(at 132.08 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 132.08 148.844 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 132.08 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 132.08 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 132.08 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c45b4a53-4c2b-41fa-87bb-0128327eb961")
+		)
+		(instances
+			(project "_autosave-8-bit_processor"
+				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -4638,7 +8156,7 @@
 			(uuid "aa9c528d-97cc-4247-8a70-e6fd11c95835")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "A")
 					(unit 1)
@@ -4647,8 +8165,240 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 193.04 160.02 90)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "9473cac6-01c0-4c73-80e0-7c1b858f1463")
+		(property "Reference" "#PWR024"
+			(at 199.39 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 198.12 160.02 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 193.04 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 193.04 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 193.04 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "0297e2b5-658a-4a67-be15-f47f45b18284")
+		)
+		(instances
+			(project "_autosave-8-bit_processor"
+				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
+					(reference "#PWR024")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 106.68 144.78 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "9605600a-3a93-47de-a79a-26e74385f058")
+		(property "Reference" "#PWR027"
+			(at 106.68 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 106.68 148.844 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 106.68 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 106.68 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 106.68 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "404138b8-480a-4305-a4d4-453eca06e017")
+		)
+		(instances
+			(project "_autosave-8-bit_processor"
+				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
+					(reference "#PWR027")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 162.56 166.37 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "97f2fb49-096f-4cbb-817f-a2786c5fc9aa")
+		(property "Reference" "#PWR034"
+			(at 162.56 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 162.56 170.434 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 162.56 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 162.56 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 162.56 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5d6e1d5d-c97b-4635-9105-feac6f9e96af")
+		)
+		(instances
+			(project "_autosave-8-bit_processor"
+				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
+					(reference "#PWR034")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Simulation_SPICE:NPN")
-		(at 222.25 44.45 270)
+		(at 222.25 39.37 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4658,7 +8408,7 @@
 		(dnp no)
 		(uuid "98bc2e17-71eb-418b-9444-da1fa7391c21")
 		(property "Reference" "Q11"
-			(at 223.5201 49.53 0)
+			(at 223.5201 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4670,7 +8420,7 @@
 			)
 		)
 		(property "Value" "NPN"
-			(at 220.218 50.292 90)
+			(at 220.218 45.212 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4681,7 +8431,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 222.25 107.95 0)
+			(at 222.25 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4692,7 +8442,7 @@
 			)
 		)
 		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs"
-			(at 222.25 107.95 0)
+			(at 222.25 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4703,7 +8453,7 @@
 			)
 		)
 		(property "Description" "Bipolar transistor symbol for simulation only, substrate tied to the emitter"
-			(at 222.25 44.45 0)
+			(at 222.25 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4714,7 +8464,7 @@
 			)
 		)
 		(property "Sim.Device" "NPN"
-			(at 222.25 44.45 0)
+			(at 222.25 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4725,7 +8475,7 @@
 			)
 		)
 		(property "Sim.Type" "GUMMELPOON"
-			(at 222.25 44.45 0)
+			(at 222.25 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4736,7 +8486,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=C 2=B 3=E"
-			(at 222.25 44.45 0)
+			(at 222.25 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4756,9 +8506,90 @@
 			(uuid "bf8a66df-6f25-4e20-951b-17203e1ba4b0")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "Q11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_SPST")
+		(at 124.46 123.19 90)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "9ca91266-59f7-4213-9784-6aec90490397")
+		(property "Reference" "A6"
+			(at 119.126 123.698 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_SPST"
+			(at 120.65 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 124.46 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 124.46 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 124.46 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "6ec2f3a7-07f3-41dd-939c-9908dc769922")
+		)
+		(pin "1"
+			(uuid "b3a3342a-721c-49c8-b004-3d7ee73ffc4d")
+		)
+		(instances
+			(project "_autosave-8-bit_processor"
+				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
+					(reference "A6")
 					(unit 1)
 				)
 			)
@@ -4847,7 +8678,7 @@
 			(uuid "38da667b-1426-49e7-882f-5c4f183dd3c0")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "D3")
 					(unit 1)
@@ -4924,7 +8755,7 @@
 			(uuid "f897c195-40ea-4aab-bb52-dfa8ac847b42")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "#PWR04")
 					(unit 1)
@@ -5015,9 +8846,127 @@
 			(uuid "0a1fa41c-0283-466a-80ab-6fba119f8873")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "D1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Simulation_SPICE:NPN")
+		(at 124.46 137.16 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "a556a6b6-0114-47c8-b91d-b13e03758efc")
+		(property "Reference" "Q32"
+			(at 125.7301 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "NPN"
+			(at 126.492 143.002 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 124.46 200.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs"
+			(at 124.46 200.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Bipolar transistor symbol for simulation only, substrate tied to the emitter"
+			(at 124.46 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "NPN"
+			(at 124.46 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" "GUMMELPOON"
+			(at 124.46 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=C 2=B 3=E"
+			(at 124.46 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "6623224c-5469-4836-8500-19f461a14883")
+		)
+		(pin "2"
+			(uuid "8d989a79-a56e-4abc-a413-cf6c318d5dc0")
+		)
+		(pin "1"
+			(uuid "e328b075-1cb6-403b-86af-573b52a44e00")
+		)
+		(instances
+			(project "_autosave-8-bit_processor"
+				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
+					(reference "Q32")
 					(unit 1)
 				)
 			)
@@ -5096,7 +9045,7 @@
 			(uuid "31dda88d-3f0d-474e-86dc-0ddbc4134ef4")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "B1")
 					(unit 1)
@@ -5106,7 +9055,7 @@
 	)
 	(symbol
 		(lib_id "Simulation_SPICE:NPN")
-		(at 182.88 44.45 270)
+		(at 182.88 39.37 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5116,7 +9065,7 @@
 		(dnp no)
 		(uuid "a5b96450-b698-4d00-a9a1-22555268ce17")
 		(property "Reference" "Q9"
-			(at 184.1501 49.53 0)
+			(at 184.1501 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5128,7 +9077,7 @@
 			)
 		)
 		(property "Value" "NPN"
-			(at 184.912 50.038 90)
+			(at 184.912 44.958 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5139,7 +9088,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 182.88 107.95 0)
+			(at 182.88 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5150,7 +9099,7 @@
 			)
 		)
 		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs"
-			(at 182.88 107.95 0)
+			(at 182.88 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5161,7 +9110,7 @@
 			)
 		)
 		(property "Description" "Bipolar transistor symbol for simulation only, substrate tied to the emitter"
-			(at 182.88 44.45 0)
+			(at 182.88 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5172,7 +9121,7 @@
 			)
 		)
 		(property "Sim.Device" "NPN"
-			(at 182.88 44.45 0)
+			(at 182.88 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5183,7 +9132,7 @@
 			)
 		)
 		(property "Sim.Type" "GUMMELPOON"
-			(at 182.88 44.45 0)
+			(at 182.88 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5194,7 +9143,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=C 2=B 3=E"
-			(at 182.88 44.45 0)
+			(at 182.88 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5214,7 +9163,7 @@
 			(uuid "2f75146f-b7e2-4488-b3ba-0b9d89d9a0c7")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "Q9")
 					(unit 1)
@@ -5224,7 +9173,7 @@
 	)
 	(symbol
 		(lib_id "Simulation_SPICE:NPN")
-		(at 46.99 102.87 270)
+		(at 139.7 157.48 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5232,9 +9181,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "b7409f0d-1609-4b89-b84d-f527eb5fc8b9")
-		(property "Reference" "Q14"
-			(at 48.2601 107.95 0)
+		(uuid "a6a43c25-241b-4ec4-87b6-abbf7ebe3fba")
+		(property "Reference" "Q40"
+			(at 140.9701 162.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5246,18 +9195,18 @@
 			)
 		)
 		(property "Value" "NPN"
-			(at 49.022 108.712 90)
+			(at 137.668 163.322 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 46.99 166.37 0)
+			(at 139.7 220.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5268,7 +9217,7 @@
 			)
 		)
 		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs"
-			(at 46.99 166.37 0)
+			(at 139.7 220.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5279,7 +9228,7 @@
 			)
 		)
 		(property "Description" "Bipolar transistor symbol for simulation only, substrate tied to the emitter"
-			(at 46.99 102.87 0)
+			(at 139.7 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5290,7 +9239,7 @@
 			)
 		)
 		(property "Sim.Device" "NPN"
-			(at 46.99 102.87 0)
+			(at 139.7 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5301,7 +9250,7 @@
 			)
 		)
 		(property "Sim.Type" "GUMMELPOON"
-			(at 46.99 102.87 0)
+			(at 139.7 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5312,7 +9261,515 @@
 			)
 		)
 		(property "Sim.Pins" "1=C 2=B 3=E"
-			(at 46.99 102.87 0)
+			(at 139.7 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "67008c0a-6b9d-4ee0-a916-4bd5302bd588")
+		)
+		(pin "2"
+			(uuid "334d4f12-b528-4d81-9dc8-9f611be6cfdf")
+		)
+		(pin "1"
+			(uuid "cf295e01-af09-47ec-a6df-e72295f098d1")
+		)
+		(instances
+			(project "_autosave-8-bit_processor"
+				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
+					(reference "Q40")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Simulation_SPICE:NPN")
+		(at 71.12 137.16 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "ab83508a-4d31-43d5-a427-981d51e44c7e")
+		(property "Reference" "Q28"
+			(at 72.3901 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "NPN"
+			(at 69.088 143.002 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 71.12 200.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs"
+			(at 71.12 200.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Bipolar transistor symbol for simulation only, substrate tied to the emitter"
+			(at 71.12 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "NPN"
+			(at 71.12 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" "GUMMELPOON"
+			(at 71.12 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=C 2=B 3=E"
+			(at 71.12 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "3dace9ac-740b-460d-9586-2a879eb2c3ba")
+		)
+		(pin "2"
+			(uuid "d6c806f9-53af-4bf1-8618-ca63d309400d")
+		)
+		(pin "1"
+			(uuid "6a6f7a5a-c153-4d1f-8327-0f8f3b38d7c7")
+		)
+		(instances
+			(project "_autosave-8-bit_processor"
+				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
+					(reference "Q28")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 95.25 166.37 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "ad5856eb-604f-420f-8ee2-b0d6e45c3933")
+		(property "Reference" "#PWR030"
+			(at 95.25 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 95.25 170.434 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 95.25 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 95.25 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 95.25 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "30a6f7e1-c758-4b68-a94d-293f10b1a7b1")
+		)
+		(instances
+			(project "_autosave-8-bit_processor"
+				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
+					(reference "#PWR030")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 48.26 163.83 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "b12d9b25-3437-4ab5-bb24-0387fdc3dfc3")
+		(property "Reference" "#PWR022"
+			(at 48.26 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 48.26 167.894 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 48.26 163.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 48.26 163.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 48.26 163.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c916999c-43fb-4a9d-aae4-4b987a373602")
+		)
+		(instances
+			(project "_autosave-8-bit_processor"
+				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
+					(reference "#PWR022")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Simulation_SPICE:NPN")
+		(at 57.15 137.16 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "b317f959-a8b8-469c-9b76-a257c9c6fe5a")
+		(property "Reference" "Q27"
+			(at 58.4201 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "NPN"
+			(at 59.182 143.002 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 57.15 200.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs"
+			(at 57.15 200.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Bipolar transistor symbol for simulation only, substrate tied to the emitter"
+			(at 57.15 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "NPN"
+			(at 57.15 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" "GUMMELPOON"
+			(at 57.15 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=C 2=B 3=E"
+			(at 57.15 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "44469b41-f496-44f4-9521-7e1ec698c5bc")
+		)
+		(pin "2"
+			(uuid "0b0bf7af-8ddd-4d39-9baf-d4142e782675")
+		)
+		(pin "1"
+			(uuid "1babf62e-bee1-45ee-9310-9571412f21ba")
+		)
+		(instances
+			(project "_autosave-8-bit_processor"
+				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
+					(reference "Q27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Simulation_SPICE:NPN")
+		(at 213.36 76.2 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "b7409f0d-1609-4b89-b84d-f527eb5fc8b9")
+		(property "Reference" "Q14"
+			(at 214.6301 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "NPN"
+			(at 215.392 82.042 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 213.36 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs"
+			(at 213.36 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Bipolar transistor symbol for simulation only, substrate tied to the emitter"
+			(at 213.36 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "NPN"
+			(at 213.36 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" "GUMMELPOON"
+			(at 213.36 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=C 2=B 3=E"
+			(at 213.36 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5332,7 +9789,7 @@
 			(uuid "039eac11-a78f-4b62-9179-12b3904c42d1")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "Q14")
 					(unit 1)
@@ -5341,8 +9798,8 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 20.32 129.54 0)
+		(lib_id "Device:LED")
+		(at 187.96 134.62 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5350,9 +9807,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "b839e107-eab5-41f2-a360-336b6e81109f")
-		(property "Reference" "#PWR016"
-			(at 20.32 135.89 0)
+		(uuid "b79bd58f-c90f-4b3e-a242-460f0a9ac089")
+		(property "Reference" "D8"
+			(at 194.31 133.0325 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5362,8 +9819,8 @@
 				)
 			)
 		)
-		(property "Value" "GND"
-			(at 20.32 133.604 0)
+		(property "Value" "OUT"
+			(at 191.77 133.0325 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5373,7 +9830,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 20.32 129.54 0)
+			(at 187.96 134.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5384,7 +9841,98 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 20.32 129.54 0)
+			(at 187.96 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 187.96 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 187.96 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d5aad877-af83-4021-9eca-6af53020e38c")
+		)
+		(pin "2"
+			(uuid "3ac5927b-3be2-4536-8fa0-033b216b9441")
+		)
+		(instances
+			(project "_autosave-8-bit_processor"
+				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
+					(reference "D8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 93.98 144.78 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "b7c53c9c-9329-4fb2-bfbf-5650345f8785")
+		(property "Reference" "#PWR025"
+			(at 93.98 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 93.98 148.844 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 93.98 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 93.98 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5395,7 +9943,84 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 20.32 129.54 0)
+			(at 93.98 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ee45c2b5-5907-496c-9f66-17f5c871e60f")
+		)
+		(instances
+			(project "_autosave-8-bit_processor"
+				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
+					(reference "#PWR025")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 186.69 102.87 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "b839e107-eab5-41f2-a360-336b6e81109f")
+		(property "Reference" "#PWR016"
+			(at 186.69 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 186.69 106.934 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 186.69 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 186.69 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 186.69 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5409,7 +10034,7 @@
 			(uuid "494e89bb-d21d-44cf-87e6-3522cba03af4")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "#PWR016")
 					(unit 1)
@@ -5418,9 +10043,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_SPST")
-		(at 34.29 88.9 90)
-		(mirror x)
+		(lib_id "power:GND")
+		(at 17.78 163.83 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5428,19 +10052,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "bd4cf324-98cf-4695-8ccf-3ce9caf37c48")
-		(property "Reference" "B4"
-			(at 28.956 89.408 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_SPST"
-			(at 30.48 88.9 0)
+		(uuid "bae5d3c9-7e6a-44e8-b387-4df4a57787ce")
+		(property "Reference" "#PWR018"
+			(at 17.78 170.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5450,8 +10064,18 @@
 				)
 			)
 		)
+		(property "Value" "GND"
+			(at 17.78 167.894 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Footprint" ""
-			(at 34.29 88.9 0)
+			(at 17.78 163.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5462,7 +10086,85 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 34.29 88.9 0)
+			(at 17.78 163.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 17.78 163.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5ba12244-dc32-4359-8a7b-61e7f19f8eb6")
+		)
+		(instances
+			(project "_autosave-8-bit_processor"
+				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
+					(reference "#PWR018")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_SPST")
+		(at 200.66 62.23 90)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "bd4cf324-98cf-4695-8ccf-3ce9caf37c48")
+		(property "Reference" "B4"
+			(at 195.326 62.738 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_SPST"
+			(at 196.85 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 200.66 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 200.66 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5473,7 +10175,7 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
-			(at 34.29 88.9 0)
+			(at 200.66 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5490,7 +10192,7 @@
 			(uuid "055af8c6-ab6d-409e-8054-7659d27c73b9")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "B4")
 					(unit 1)
@@ -5608,7 +10310,7 @@
 			(uuid "854f44c6-d595-4b5e-8de5-9cff38c45a4a")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "Q5")
 					(unit 1)
@@ -5618,7 +10320,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 171.45 24.13 90)
+		(at 171.45 19.05 90)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -5629,7 +10331,7 @@
 		(dnp no)
 		(uuid "cb1420fa-e3b8-4434-bd45-8a068d940e6d")
 		(property "Reference" "#PWR07"
-			(at 175.26 24.13 0)
+			(at 175.26 19.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5640,7 +10342,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 166.37 24.13 90)
+			(at 166.37 19.05 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5650,7 +10352,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 171.45 24.13 0)
+			(at 171.45 19.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5661,7 +10363,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 171.45 24.13 0)
+			(at 171.45 19.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5672,7 +10374,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 171.45 24.13 0)
+			(at 171.45 19.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5686,7 +10388,7 @@
 			(uuid "ae3cf317-aa5b-4bc7-998a-0e49c0b14d9f")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "#PWR07")
 					(unit 1)
@@ -5696,7 +10398,7 @@
 	)
 	(symbol
 		(lib_id "Simulation_SPICE:NPN")
-		(at 101.6 102.87 270)
+		(at 267.97 76.2 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5706,7 +10408,7 @@
 		(dnp no)
 		(uuid "cb241a0c-4a3a-4272-b480-bb21fec41948")
 		(property "Reference" "Q21"
-			(at 102.8701 107.95 0)
+			(at 269.2401 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5718,7 +10420,7 @@
 			)
 		)
 		(property "Value" "NPN"
-			(at 103.886 108.458 90)
+			(at 270.256 81.788 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5729,7 +10431,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 101.6 166.37 0)
+			(at 267.97 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5740,7 +10442,7 @@
 			)
 		)
 		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs"
-			(at 101.6 166.37 0)
+			(at 267.97 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5751,7 +10453,7 @@
 			)
 		)
 		(property "Description" "Bipolar transistor symbol for simulation only, substrate tied to the emitter"
-			(at 101.6 102.87 0)
+			(at 267.97 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5762,7 +10464,7 @@
 			)
 		)
 		(property "Sim.Device" "NPN"
-			(at 101.6 102.87 0)
+			(at 267.97 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5773,7 +10475,7 @@
 			)
 		)
 		(property "Sim.Type" "GUMMELPOON"
-			(at 101.6 102.87 0)
+			(at 267.97 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5784,7 +10486,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=C 2=B 3=E"
-			(at 101.6 102.87 0)
+			(at 267.97 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5804,7 +10506,7 @@
 			(uuid "b5a48312-ad02-4a04-9375-ee8bc7275058")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "Q21")
 					(unit 1)
@@ -5814,7 +10516,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPST")
-		(at 46.99 88.9 90)
+		(at 213.36 62.23 90)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -5825,7 +10527,7 @@
 		(dnp no)
 		(uuid "cb3c3e54-8bcd-48d2-b11f-1f18a8114637")
 		(property "Reference" "A4"
-			(at 41.656 89.408 0)
+			(at 208.026 62.738 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5835,7 +10537,7 @@
 			)
 		)
 		(property "Value" "SW_SPST"
-			(at 43.18 88.9 0)
+			(at 209.55 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5846,7 +10548,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 46.99 88.9 0)
+			(at 213.36 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5857,7 +10559,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 46.99 88.9 0)
+			(at 213.36 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5868,7 +10570,7 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
-			(at 46.99 88.9 0)
+			(at 213.36 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5885,7 +10587,7 @@
 			(uuid "e11b628e-7588-44c5-8bf2-c67054a6c7c5")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "A4")
 					(unit 1)
@@ -5895,7 +10597,7 @@
 	)
 	(symbol
 		(lib_id "Simulation_SPICE:NPN")
-		(at 208.28 44.45 270)
+		(at 208.28 39.37 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5905,7 +10607,7 @@
 		(dnp no)
 		(uuid "cc8b83ef-409d-4a2a-9d8e-62a94e213b6f")
 		(property "Reference" "Q10"
-			(at 209.5501 49.53 0)
+			(at 209.5501 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5917,7 +10619,7 @@
 			)
 		)
 		(property "Value" "NPN"
-			(at 210.312 50.292 90)
+			(at 210.312 45.212 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5928,7 +10630,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 208.28 107.95 0)
+			(at 208.28 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5939,7 +10641,7 @@
 			)
 		)
 		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs"
-			(at 208.28 107.95 0)
+			(at 208.28 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5950,7 +10652,7 @@
 			)
 		)
 		(property "Description" "Bipolar transistor symbol for simulation only, substrate tied to the emitter"
-			(at 208.28 44.45 0)
+			(at 208.28 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5961,7 +10663,7 @@
 			)
 		)
 		(property "Sim.Device" "NPN"
-			(at 208.28 44.45 0)
+			(at 208.28 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5972,7 +10674,7 @@
 			)
 		)
 		(property "Sim.Type" "GUMMELPOON"
-			(at 208.28 44.45 0)
+			(at 208.28 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5983,7 +10685,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=C 2=B 3=E"
-			(at 208.28 44.45 0)
+			(at 208.28 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6003,7 +10705,7 @@
 			(uuid "2fba87c8-8062-42ed-bd46-9406592368f1")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "Q10")
 					(unit 1)
@@ -6084,9 +10786,90 @@
 			(uuid "d651fa18-8678-4dc3-ae9a-26edda8ef7f4")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "A2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_SPST")
+		(at 44.45 123.19 90)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "d0b04e11-7a7a-4b1a-ab3a-ec8ac251c641")
+		(property "Reference" "A5"
+			(at 39.116 123.698 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_SPST"
+			(at 40.64 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 44.45 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 44.45 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 44.45 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "7ca3588f-f718-45d6-92b0-745c75fdc43e")
+		)
+		(pin "1"
+			(uuid "a1554507-4986-433b-9a8a-0714eb67b3ee")
+		)
+		(instances
+			(project "_autosave-8-bit_processor"
+				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
+					(reference "A5")
 					(unit 1)
 				)
 			)
@@ -6165,7 +10948,7 @@
 			(uuid "c9e8dddb-0ad9-41c2-930f-abb0a19a1095")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "A1")
 					(unit 1)
@@ -6175,7 +10958,7 @@
 	)
 	(symbol
 		(lib_id "Simulation_SPICE:NPN")
-		(at 59.69 102.87 270)
+		(at 226.06 76.2 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6185,7 +10968,7 @@
 		(dnp no)
 		(uuid "d37eb91d-3d31-4e9d-80c2-bbd4a3818bf2")
 		(property "Reference" "Q15"
-			(at 60.9601 107.95 0)
+			(at 227.3301 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6197,7 +10980,7 @@
 			)
 		)
 		(property "Value" "NPN"
-			(at 61.722 108.712 90)
+			(at 228.092 82.042 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6208,7 +10991,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 59.69 166.37 0)
+			(at 226.06 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6219,7 +11002,7 @@
 			)
 		)
 		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs"
-			(at 59.69 166.37 0)
+			(at 226.06 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6230,7 +11013,7 @@
 			)
 		)
 		(property "Description" "Bipolar transistor symbol for simulation only, substrate tied to the emitter"
-			(at 59.69 102.87 0)
+			(at 226.06 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6241,7 +11024,7 @@
 			)
 		)
 		(property "Sim.Device" "NPN"
-			(at 59.69 102.87 0)
+			(at 226.06 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6252,7 +11035,7 @@
 			)
 		)
 		(property "Sim.Type" "GUMMELPOON"
-			(at 59.69 102.87 0)
+			(at 226.06 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6263,7 +11046,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=C 2=B 3=E"
-			(at 59.69 102.87 0)
+			(at 226.06 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6283,7 +11066,7 @@
 			(uuid "e4b059ed-f97d-4a4a-91dc-637554dcd639")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "Q15")
 					(unit 1)
@@ -6292,8 +11075,126 @@
 		)
 	)
 	(symbol
+		(lib_id "Simulation_SPICE:NPN")
+		(at 113.03 157.48 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "d4b17843-ce08-440a-829b-ed0138c0176d")
+		(property "Reference" "Q38"
+			(at 114.3001 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "NPN"
+			(at 115.062 163.322 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 113.03 220.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs"
+			(at 113.03 220.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Bipolar transistor symbol for simulation only, substrate tied to the emitter"
+			(at 113.03 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "NPN"
+			(at 113.03 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" "GUMMELPOON"
+			(at 113.03 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=C 2=B 3=E"
+			(at 113.03 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "f77e5c36-20af-4487-8d52-8612a7782d2f")
+		)
+		(pin "2"
+			(uuid "45698702-6213-4fc5-b723-b7d102f8ba87")
+		)
+		(pin "1"
+			(uuid "f1a7c41b-9c74-446e-8602-e087964e55ee")
+		)
+		(instances
+			(project "_autosave-8-bit_processor"
+				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
+					(reference "Q38")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
-		(at 81.28 125.73 90)
+		(at 247.65 99.06 90)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -6304,7 +11205,7 @@
 		(dnp no)
 		(uuid "d588af6e-81ec-4add-97ba-3689f24d8f97")
 		(property "Reference" "#PWR014"
-			(at 87.63 125.73 0)
+			(at 254 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6315,7 +11216,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 86.36 125.73 90)
+			(at 252.73 99.06 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6325,7 +11226,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 81.28 125.73 0)
+			(at 247.65 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6336,7 +11237,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 81.28 125.73 0)
+			(at 247.65 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6347,7 +11248,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 81.28 125.73 0)
+			(at 247.65 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6361,7 +11262,7 @@
 			(uuid "22f231b1-cb6e-47f3-83e9-bac47b0bc031")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "#PWR014")
 					(unit 1)
@@ -6442,9 +11343,127 @@
 			(uuid "19eee289-4983-4441-a655-ef908678436c")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "B2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Simulation_SPICE:NPN")
+		(at 31.75 137.16 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "e209031e-bd52-427d-81b8-11b40d3a230a")
+		(property "Reference" "Q23"
+			(at 33.0201 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "NPN"
+			(at 33.782 142.748 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 31.75 200.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs"
+			(at 31.75 200.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Bipolar transistor symbol for simulation only, substrate tied to the emitter"
+			(at 31.75 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "NPN"
+			(at 31.75 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" "GUMMELPOON"
+			(at 31.75 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=C 2=B 3=E"
+			(at 31.75 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "3f84359e-0d4d-4ed2-8f2c-b9b253143f61")
+		)
+		(pin "2"
+			(uuid "b97c81e3-1cd3-4b75-bd37-89a02d33171f")
+		)
+		(pin "1"
+			(uuid "7d01d8dd-651c-4f66-a57d-99a3d04d6b98")
+		)
+		(instances
+			(project "_autosave-8-bit_processor"
+				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
+					(reference "Q23")
 					(unit 1)
 				)
 			)
@@ -6533,7 +11552,7 @@
 			(uuid "09b61d01-a21d-4763-9c8f-d59a990dab2d")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "D2")
 					(unit 1)
@@ -6651,7 +11670,7 @@
 			(uuid "ba6ab213-a342-4fa5-95ec-e9a989d675ff")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "Q4")
 					(unit 1)
@@ -6769,9 +11788,163 @@
 			(uuid "13d6fc96-c99b-4b56-8b4a-73e6546227cd")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "Q3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 148.59 166.37 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "eae1b08d-1213-4cb5-9527-be2264912837")
+		(property "Reference" "#PWR033"
+			(at 148.59 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 148.59 170.434 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 148.59 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 148.59 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 148.59 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "83e76193-4dcc-484a-a079-1aef0451813d")
+		)
+		(instances
+			(project "_autosave-8-bit_processor"
+				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
+					(reference "#PWR033")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 120.65 166.37 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "ed0763b4-c0d5-4b14-b2f5-53a0baa7b242")
+		(property "Reference" "#PWR031"
+			(at 120.65 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 120.65 170.434 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 120.65 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 120.65 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 120.65 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "6331ca45-5c74-4dff-9ded-4c6c149e0d8e")
+		)
+		(instances
+			(project "_autosave-8-bit_processor"
+				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -6846,9 +12019,87 @@
 			(uuid "ab0c172f-3473-4096-999d-550f08f78cf8")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "#PWR03")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 19.05 172.72 90)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f0192d32-62a3-4e91-935d-26ee8b005b64")
+		(property "Reference" "#PWR019"
+			(at 22.86 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 13.97 172.72 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 19.05 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 19.05 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 19.05 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5e933588-11d9-4d11-adc4-16ead11f9758")
+		)
+		(instances
+			(project "_autosave-8-bit_processor"
+				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -6964,7 +12215,7 @@
 			(uuid "c6b1b1e8-c52a-4f9e-8f62-139199e63928")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "Q6")
 					(unit 1)
@@ -6974,7 +12225,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 111.76 93.98 270)
+		(at 278.13 67.31 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6984,7 +12235,7 @@
 		(dnp no)
 		(uuid "f2205c62-3a41-493b-9e34-843c6f5a2329")
 		(property "Reference" "D5"
-			(at 118.11 92.3925 0)
+			(at 284.48 65.7225 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6995,7 +12246,7 @@
 			)
 		)
 		(property "Value" "OUT"
-			(at 115.57 92.3925 0)
+			(at 281.94 65.7225 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7005,7 +12256,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 111.76 93.98 0)
+			(at 278.13 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7016,7 +12267,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 111.76 93.98 0)
+			(at 278.13 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7027,7 +12278,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 111.76 93.98 0)
+			(at 278.13 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7038,7 +12289,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 111.76 93.98 0)
+			(at 278.13 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7055,7 +12306,7 @@
 			(uuid "7d8aeca5-0a8f-4934-a182-7138bd8a0127")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "D5")
 					(unit 1)
@@ -7065,7 +12316,7 @@
 	)
 	(symbol
 		(lib_id "Simulation_SPICE:NPN")
-		(at 55.88 123.19 270)
+		(at 53.34 157.48 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7073,9 +12324,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "f8f2bf33-6ba0-4d74-a111-cd449c2b65e7")
-		(property "Reference" "Q20"
-			(at 57.1501 128.27 0)
+		(uuid "f5c7fc8f-0f0f-44fe-a130-261edf77f10c")
+		(property "Reference" "Q26"
+			(at 54.6101 162.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7087,7 +12338,7 @@
 			)
 		)
 		(property "Value" "NPN"
-			(at 57.912 128.778 90)
+			(at 55.372 163.068 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7098,7 +12349,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 55.88 186.69 0)
+			(at 53.34 220.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7109,7 +12360,7 @@
 			)
 		)
 		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs"
-			(at 55.88 186.69 0)
+			(at 53.34 220.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7120,7 +12371,7 @@
 			)
 		)
 		(property "Description" "Bipolar transistor symbol for simulation only, substrate tied to the emitter"
-			(at 55.88 123.19 0)
+			(at 53.34 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7131,7 +12382,7 @@
 			)
 		)
 		(property "Sim.Device" "NPN"
-			(at 55.88 123.19 0)
+			(at 53.34 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7142,7 +12393,7 @@
 			)
 		)
 		(property "Sim.Type" "GUMMELPOON"
-			(at 55.88 123.19 0)
+			(at 53.34 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7153,7 +12404,279 @@
 			)
 		)
 		(property "Sim.Pins" "1=C 2=B 3=E"
-			(at 55.88 123.19 0)
+			(at 53.34 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "c025d1c8-9df0-4219-9b65-12fdf1ca1392")
+		)
+		(pin "2"
+			(uuid "5e740f28-80d5-44cc-b351-fab28ff5c9e7")
+		)
+		(pin "1"
+			(uuid "bf92d0fc-fd4f-4a08-8091-94f7d46359e2")
+		)
+		(instances
+			(project "_autosave-8-bit_processor"
+				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
+					(reference "Q26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 52.07 143.51 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f5d106fd-e19e-455e-bd3b-75dfba8344fc")
+		(property "Reference" "#PWR023"
+			(at 52.07 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 52.07 147.574 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 52.07 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 52.07 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 52.07 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c5ef62ae-05bf-4ec4-95d2-72bd6ba9e28f")
+		)
+		(instances
+			(project "_autosave-8-bit_processor"
+				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
+					(reference "#PWR023")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 134.62 166.37 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f5e573df-549d-4a05-9292-0a7a5100adb7")
+		(property "Reference" "#PWR032"
+			(at 134.62 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 134.62 170.434 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 134.62 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 134.62 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 134.62 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "03b7d501-fbfd-46c2-b823-53cfb9b87298")
+		)
+		(instances
+			(project "_autosave-8-bit_processor"
+				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
+					(reference "#PWR032")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Simulation_SPICE:NPN")
+		(at 222.25 96.52 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f8f2bf33-6ba0-4d74-a111-cd449c2b65e7")
+		(property "Reference" "Q20"
+			(at 223.5201 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "NPN"
+			(at 224.282 102.108 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 222.25 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs"
+			(at 222.25 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Bipolar transistor symbol for simulation only, substrate tied to the emitter"
+			(at 222.25 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "NPN"
+			(at 222.25 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" "GUMMELPOON"
+			(at 222.25 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=C 2=B 3=E"
+			(at 222.25 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7173,12 +12696,284 @@
 			(uuid "d4245aec-8bff-4aed-a2bd-015b68b934df")
 		)
 		(instances
-			(project "8-bit_processor"
+			(project "_autosave-8-bit_processor"
 				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
 					(reference "Q20")
 					(unit 1)
 				)
 			)
+		)
+	)
+	(symbol
+		(lib_id "Simulation_SPICE:NPN")
+		(at 125.73 157.48 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "fd273a36-1f58-4932-bb36-062bb204930a")
+		(property "Reference" "Q39"
+			(at 127.0001 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "NPN"
+			(at 127.762 163.322 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 125.73 220.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs"
+			(at 125.73 220.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Bipolar transistor symbol for simulation only, substrate tied to the emitter"
+			(at 125.73 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "NPN"
+			(at 125.73 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" "GUMMELPOON"
+			(at 125.73 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=C 2=B 3=E"
+			(at 125.73 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "6e2a58e3-be5b-4a37-b990-ed00b5d5654c")
+		)
+		(pin "2"
+			(uuid "4d745afd-352d-4247-bd46-6a4638ce1136")
+		)
+		(pin "1"
+			(uuid "afed1fa5-5eb9-4bb3-8b74-07c0b97d2a32")
+		)
+		(instances
+			(project "_autosave-8-bit_processor"
+				(path "/8942afb3-f807-415f-be27-fb9dc57b1ca2"
+					(reference "Q39")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(group "Half_adder"
+		(uuid "42c941f0-fede-4138-b9dd-a60fb8a6d7c1")
+		(members "041c7668-2a7a-4b9e-8824-2e8f93d60f0d" "12f0ff6d-b6a0-4561-a072-7ae4cb255169"
+			"13dd05fc-dded-4c3a-bdb2-b2ad7b783c24" "1461623d-75d9-4957-8444-ff022f898838"
+			"17c4ce7f-42e8-4dff-9386-7cae82fdfaf4" "1f898747-aaeb-4fe3-80fc-a9113161443f"
+			"218f8687-255c-42d0-b7ac-2b8a800ef42e" "22022be3-ae10-477e-857b-218ad57cb128"
+			"231658e8-d45e-495c-8920-a23cd4607a69" "241354d7-28d6-4ccd-b4e6-233778de5a8d"
+			"2914eb6e-e344-485c-b214-c11606780542" "298a8fce-188a-4ad0-9c96-ab8104e2ca0c"
+			"2fc43ebf-ba37-4681-b933-49bb53025c1c" "313a8a69-3784-49d7-956d-658243fc3c00"
+			"38313e3b-1309-4359-ace0-5e986d347e02" "3ad3be41-177a-444d-bd9a-231b3180892f"
+			"3af66fc5-6400-4ad2-af1c-6dcf6ef1ac66" "3afb5577-ac79-4934-ac26-c199a4a52ac2"
+			"3c7c04d6-c186-4afa-97b7-9d8c46144f3b" "3e8ed0d4-6c70-4230-aa03-cc50d0645cb2"
+			"443d90be-29e6-4f93-96e0-97d80f73210d" "44716470-e7bc-409d-86e7-0613b9b8ea21"
+			"448280ae-3e8a-4de5-8b3e-52be3771bf4b" "47157b55-1f4b-409c-bcd5-88a422d50ece"
+			"4b868ad2-dd41-4567-8d1f-3680f8de6db3" "4b9d47d0-516b-4274-8f37-6ea526bf5abe"
+			"4d3831bd-a8d2-4e51-adbf-106f5d6ecfdf" "543c35f9-c04d-457c-ab7d-2414f64e652a"
+			"56a108a8-96e0-4e35-9412-9922d66af421" "589b9ac8-5e12-4cd4-bd75-c1759069aade"
+			"59531fd8-00bc-4dc1-8adf-c2cfd5f303b7" "5b174a6a-577f-4860-a727-79e5d52cabc7"
+			"625ab40c-d80d-4a4b-ada2-35e4b3cd90e8" "64a2f2dc-d41c-4c70-be04-364825a19e5b"
+			"64e8531b-c96e-4757-87fe-070dc5f8e6f8" "65e2afed-8a42-4f27-a933-2b808cf1408a"
+			"666575d2-cedc-422d-9baa-69024bbeff1c" "672975dd-8f86-4e0c-a38e-5846a2d93160"
+			"67d0dec3-bd97-47de-aa78-7910f954781b" "6f37012e-ed53-484b-a495-9aaa3e39d9cf"
+			"7577c302-0546-4fb7-981a-f7716ff573d6" "75ad1766-3dd5-4152-9758-9c1a1169b8e4"
+			"7774d42d-9d0a-444e-aba1-0be0caad6c5a" "77c5e1d5-d27d-4c58-a94b-b12c299c9412"
+			"7a0acdbb-2765-4655-99a8-c7522845b62e" "7bce59d9-14e6-4886-a6a3-ec4cd06814d1"
+			"7dd62204-d6a5-49ed-bfdf-0c1b92ed1620" "842948b7-0756-4397-97d0-1bc6ec4dcd50"
+			"85ccfe3c-a91b-4f51-bdc5-836a788849bf" "8cb5cdb2-ac20-4e84-9fa8-24ccc70049a2"
+			"97d01cd0-3a7d-4ee1-b862-dd40da67caf0" "9a04c9c2-35c3-4188-9140-4eeb8fc206df"
+			"9f0443af-fb65-4e82-826e-0c512f5cb4d5" "a42793e4-fae3-4eca-911f-0261224e6852"
+			"a47ca515-487f-449d-837a-a3b5df708928" "a5c59779-9d93-41fb-bbc6-351c54a0e783"
+			"a79ead07-29b4-450c-85db-e5d4fda65cfd" "a7d3af1f-e8d3-41f9-9ef6-cd26a573f38a"
+			"aebeea12-2725-49b1-bb3f-59b12df17d70" "b1acec93-8b84-4841-8f40-3d7310b756f7"
+			"b7409f0d-1609-4b89-b84d-f527eb5fc8b9" "b839e107-eab5-41f2-a360-336b6e81109f"
+			"ba2bc007-9afe-4cb8-9ce3-8c1e682131e9" "bbef1930-7f12-4a3f-8afc-c9767e248204"
+			"bd4cf324-98cf-4695-8ccf-3ce9caf37c48" "c51399b0-1f3e-41cc-b3a0-944b80fa6e3a"
+			"c951aae6-5082-46cf-a26e-fe509808630b" "caf28e82-c182-4d5b-a6af-95a2944ff0b6"
+			"cb241a0c-4a3a-4272-b480-bb21fec41948" "cb3c3e54-8bcd-48d2-b11f-1f18a8114637"
+			"d2fa4d42-84cb-4bbc-af30-6305d787adfb" "d37eb91d-3d31-4e9d-80c2-bbd4a3818bf2"
+			"d38d2f3d-1225-4572-bd73-6edad0ad1fe0" "d588af6e-81ec-4add-97ba-3689f24d8f97"
+			"d5c68a51-a416-4cd6-ad82-076763ac4069" "d6407d42-13fd-473d-a056-ff9d787a6768"
+			"d8e5ce54-d6f3-4c00-8eaf-365760c01971" "dc3b4abb-d088-43a0-b315-b7337c64d706"
+			"de86b43c-d273-4954-9e35-112d5055de49" "dede4856-1c6c-4c7e-b5f9-d1c6144a65e0"
+			"e52de7a9-de1b-45dc-b861-96f88b721a0b" "e5e35dc1-4253-4d2d-b721-b030aea3fd45"
+			"eb1581b4-5ee5-4ed7-b2cf-c275320d1c6e" "eb9282fc-899b-471a-92f0-33360acd7a54"
+			"f2205c62-3a41-493b-9e34-843c6f5a2329" "f3673b4b-1c5b-4fbe-86cb-138aae8cb699"
+			"f8c0eb33-67f2-4f0c-a6fb-b1676f795c29" "f8f2bf33-6ba0-4d74-a111-cd449c2b65e7"
+			"f97faf30-0d55-4463-a380-e622b5d031f3" "fc3979bb-35a0-482f-98ff-bb21f94fdf0f"
+			"fc96dd56-2cc6-4401-8851-295981dcf6f7"
+		)
+	)
+	(group "Full_Adder"
+		(uuid "4318bc3a-4eb7-4a8f-98d2-f48fbc22fe6f")
+		(members "00a902d2-85e8-443b-b01c-1839fd1211e7" "02842fe7-7195-4673-87a7-8385762e8f68"
+			"0458f279-3969-4991-980e-fd9eeee06aab" "048f9c97-6fa6-47cd-b9f4-c82a9e57c242"
+			"04cb904c-7395-43f4-9bb1-f4b91ac07db6" "04f883fc-6797-46f9-8d92-5bd79e36f964"
+			"06ae331d-87dd-4d83-a1c6-fc385741598e" "07df6a2e-00db-4550-8ab5-06fc2caabad3"
+			"0b0927e4-6534-4e64-b026-c2547341fbcc" "0c7bcf12-9bdd-48df-9c79-074cf7ef25f9"
+			"0e688555-767d-4bd8-9190-85cb012fa4ac" "0f65985c-199f-4e10-a53c-e9439ce9919c"
+			"0f8adb61-bbaa-4eb5-b2e3-d5d6a5138c32" "1036534f-5efd-496e-9a52-18a31833f223"
+			"133f5e16-8d97-4c8f-8cac-d6449d6f0642" "13ad673a-0688-4a2b-ab77-d852ace959dd"
+			"148478b9-1a89-4bb4-9eb4-424fdc32430c" "15b8772a-0daf-4254-b997-6c1d23fda95f"
+			"1641dc06-738e-4805-a650-b524222e014e" "191881a2-25b3-4baf-80c2-fe0944e8deee"
+			"198c6257-96b1-4e9c-b240-7e434fbb5b5d" "1a28faa1-caf4-464b-ba37-4d2a264677a9"
+			"1aad44d6-d09c-4e12-b1e2-e834263dee34" "1ae3c9bc-f142-41f5-b3e6-9bd55fe81b06"
+			"1b2b02a1-da80-4ab7-aa48-be804f931129" "1cea2a8c-d448-49bb-bac2-0b1f60690875"
+			"1e641fd9-c592-4a7e-9ea9-37b81ac52109" "1f65b454-e2d2-4c56-997e-1b953afc6711"
+			"2002574e-ce82-40cf-bb45-50b1f121f74b" "23885e6e-ec8e-42f3-8ab2-92c07d59ce65"
+			"245089e8-acd1-4623-abf9-9a47cf02e200" "24780327-a343-4eb3-93d1-06ce2fb2f11b"
+			"26336502-6b26-4806-8e5f-efc348a68926" "264d31fb-4c44-4d18-8672-e0592f4082d1"
+			"2692e5c0-974e-48dd-93b0-0555d57b69ad" "2b049fdf-196f-4a6a-8c1c-b46207d11e3a"
+			"2c1b3786-7cb5-4266-8fe3-8b80dbbb7f54" "2c6ff42d-711c-4664-81f0-85e147e8332e"
+			"2cadd413-8587-46d3-a1c9-ae0fdfb4dc88" "2cbbfa77-6954-4853-9a68-5a1bbbdedca0"
+			"2da55da2-c075-4c8c-9bb8-3585b9d3a9ff" "2dbbfade-4a44-43f7-abf0-cd81a0c36cb6"
+			"2dfd1dcd-e046-4952-9312-57ec6b290e09" "2f27b5b6-59a1-473f-b5b1-e7fe5ebc2859"
+			"2f301ea1-78d3-408f-9c3d-d0c25cc0e542" "307b37e4-0509-4f3e-8407-2fcb909ef6d8"
+			"33af362f-9b22-4559-8b15-f40a429d2f95" "34ce2db1-7374-42bf-838d-cc222362bdbb"
+			"34fb0218-56bd-47c7-baa4-68b7103177c1" "379f7c7f-d6b5-4e3b-9680-f9e5f727cf84"
+			"3a6abd83-8359-478c-8de3-e85924d15f82" "3a99fd54-7efd-443c-a094-9c8d739feac9"
+			"3b1baa44-9343-4444-ada6-708afcac16d4" "3ba89ab0-75d2-4b6b-8bc3-470ae710118c"
+			"3d5296d8-d652-4f74-990e-d155387a0ef4" "3dca3b7f-aeeb-434f-bd75-bcfc887df7e5"
+			"3f31305a-6a83-4e5b-bf27-b2ad9c86ea3c" "41627052-447b-430b-acec-cc5a1480a65e"
+			"419793a2-c0fa-4267-a79d-1a2c071f643e" "440cded4-4e5c-4983-97b4-4424c9fb6877"
+			"45cf03d1-a5f2-4674-bc23-fd909e0ada90" "47d7cb2f-d425-4d81-9a02-b6e4b00cf834"
+			"4ae4154f-a354-4504-815c-4485b41f8439" "4b03afc8-062e-4b18-86c9-1a130776b5c6"
+			"4b728106-99a7-4af8-8c1a-bdcbf6041eea" "4c9abbc7-28eb-4834-b0de-248de0822ee6"
+			"4cd09982-a46c-4f24-b76d-87eecae7e2d0" "4ea2bc8f-d8dd-4567-bb81-407f42c2928e"
+			"4eb6b171-3b85-4d7e-8564-d892a4efa079" "4eb8215c-f9bc-438a-a26c-dbd6015f0fbe"
+			"500789e2-a3b5-4463-ac7e-8d881620490d" "52f8a192-1805-4a09-aaf1-31e362becc36"
+			"56d434f8-4675-4c99-9ccd-5cedb4baac3f" "57d9cbff-3abe-4183-b322-66631b75e229"
+			"595b6dbe-2563-4289-b149-c5cb01f0f1bd" "5d143d32-b35e-4491-97ad-51a4d65c0917"
+			"5daa55be-d535-4ba0-9ff7-f862b6b0fc0d" "5ea06057-4a9c-4167-853d-df12d151068d"
+			"608e428c-8e14-4120-b22a-153c8c2f150f" "61912a66-8161-4227-bb58-c56c03a06c77"
+			"62607761-2c56-43ff-9305-0d68317e2c93" "64e7bd12-0dc2-4589-bd38-122719525fc9"
+			"6545b295-1e1f-450d-97bf-dbfa9cbabd35" "65c038b0-0642-4155-ae98-8df7cc0071b0"
+			"68449ab7-552d-4043-ac87-c6992c6728df" "6936e7fd-5eff-4510-989c-6122615399a2"
+			"6baac284-659f-4626-a764-a43795fbb6cb" "6bf32a66-2a13-4ae4-823f-2459ccb2444c"
+			"6da3871c-c1e5-4d88-ade4-28f8805eae62" "6ee93f11-4fba-4903-aec4-74786fe9ac13"
+			"701ea64c-deec-41a5-ac32-89d231395732" "70afcca3-33f7-450e-ad8b-3bc141a964a3"
+			"70fcba0c-2d6c-4486-83b1-e81a74e36a5b" "71761735-81f7-40e4-b080-176f6542cf63"
+			"71a5773d-ad16-4b4a-9a72-befc05ef9563" "723b2ea8-91ee-4218-b55c-fcb67856432a"
+			"73f85535-0f2f-45b7-9324-2775e38be85f" "747f67d2-62ec-45c2-b8cd-2b214b6aa518"
+			"78bdc846-f4d0-4eee-8c58-e57af0912d43" "79e22226-91c1-4023-9633-2fedf4ddea10"
+			"7d95da52-db8d-489a-b561-1d182dfdbb25" "7e5a40d3-2b33-472c-aa26-513b183350d9"
+			"804ec0e5-8c5e-454e-be23-c0e25aeb8ca3" "8132824f-5a3a-4bc3-94a5-104908ffe46f"
+			"81e476ea-ba3f-4c58-8f9a-c359fb409c1c" "822742af-7001-4738-8ade-059e1d2fcb0c"
+			"8355071e-0b41-4a93-828c-71445b04294b" "84836ef6-c971-4106-82d2-ff9f5797487b"
+			"84938932-d3eb-4e8a-8f41-999229332036" "84b296c7-770a-42ba-99aa-271d687efe2b"
+			"8537162a-bd8a-4e0e-b4df-3d7a4f8bfd44" "8585eb14-66b0-4c87-8cff-b0b595328342"
+			"874aabef-ce6b-4d6c-a4aa-781fb06b9e6d" "87ac416f-a676-4bc7-8b10-90aa74352afd"
+			"88eea156-34c2-4ac9-a6f9-36ef03957b8d" "8a3d7a58-e1fc-4c2e-bae3-d323fdf8cecd"
+			"8c57c428-87ae-4808-ae86-680890726bdb" "8d78c946-c85f-4d27-9a1c-9e1e924c7c86"
+			"8e33adb7-ec43-4ced-9af2-79097f0d922c" "8e36798f-ed5d-461a-a63b-abf6f1d96996"
+			"9131a7ce-0507-4ce0-8198-30ceca1d31c6" "92e1e9e5-c3d1-4a3a-98a0-8023f66b103d"
+			"93afa46d-29c5-442c-a309-21339c52d92c" "9473cac6-01c0-4c73-80e0-7c1b858f1463"
+			"954469fb-41c3-48b6-980c-812b6cd9d021" "9605600a-3a93-47de-a79a-26e74385f058"
+			"97f2fb49-096f-4cbb-817f-a2786c5fc9aa" "9ca91266-59f7-4213-9784-6aec90490397"
+			"9eee3dea-364a-4b60-b001-f36a297f7571" "a2bb0790-c0a0-49a5-be70-536d0788e1f0"
+			"a556a6b6-0114-47c8-b91d-b13e03758efc" "a6a43c25-241b-4ec4-87b6-abbf7ebe3fba"
+			"a71e94d2-ed0e-448a-b136-bbe4ebef01a6" "a7993edb-399b-4361-8f5c-a0993a99dded"
+			"a99cf65c-dfec-4cc0-8044-0f14c5600378" "ab626e61-ab11-41d2-aeb1-3ed8a3b031d2"
+			"ab83508a-4d31-43d5-a427-981d51e44c7e" "ac3f17f2-2c71-49b7-8d83-7746926e1b3c"
+			"ad4e9c30-2a39-4c7e-9c6c-f9dafa25745f" "ad5856eb-604f-420f-8ee2-b0d6e45c3933"
+			"b036422d-720e-4637-a256-38d4e25879cd" "b12d9b25-3437-4ab5-bb24-0387fdc3dfc3"
+			"b317f959-a8b8-469c-9b76-a257c9c6fe5a" "b5a2e85c-f14a-4b4d-a134-0921547f38b0"
+			"b642ce5d-bb54-48a8-9e96-c71592990d61" "b79bd58f-c90f-4b3e-a242-460f0a9ac089"
+			"b7c53c9c-9329-4fb2-bfbf-5650345f8785" "b86dd379-35e6-4fa1-9072-d764fe6ca567"
+			"bae5d3c9-7e6a-44e8-b387-4df4a57787ce" "baef8895-6d6a-4fb8-91bb-3d0bc894372e"
+			"bb2cee5d-6c45-4156-885d-a570cf5d9826" "bbecdb32-ca8b-4388-97e1-ccc53417e5fe"
+			"bca3df35-2f92-477e-82f6-c2ed2da2d1fd" "c09848fe-b865-4509-9fcb-f04f5e39cb6d"
+			"c1e0d3e2-7f2d-41ed-ab0c-b50ebf069cd1" "c3024395-96a1-4390-8b76-23cb4a47ed02"
+			"c3f22b04-0035-44c2-a3bb-1f3a135e39e7" "c654248b-9c45-43f1-8c62-1b86c58c0baf"
+			"c7542140-8869-46b5-b5e9-6c0f54fbff60" "c81a732b-878e-4cba-a1ae-8dc2fd612140"
+			"d0b04e11-7a7a-4b1a-ab3a-ec8ac251c641" "d1812adb-2589-49a7-a87e-4662fb3737f5"
+			"d3b6e5f3-029a-48f9-943c-62c3c62a63c7" "d4b17843-ce08-440a-829b-ed0138c0176d"
+			"d69b0dea-d8d2-4c7f-959a-ff7e0bcc5b37" "d7bed916-7c2e-4376-be20-aff9adc7e85e"
+			"d9fd8ae8-3499-413b-82dd-7785dda3306b" "dbc75503-f58e-401e-a1ee-3cc7744a6cfc"
+			"dd02ea2b-1fa7-428f-918e-424b418e31db" "dd1ddc80-420b-4e0b-a237-197a4ad60913"
+			"ded7a396-d7eb-41be-b0d2-90e195b542b7" "df5ff25e-f7dc-440f-8263-d7559a391578"
+			"e209031e-bd52-427d-81b8-11b40d3a230a" "e3d52c35-4406-4bfc-9610-d7346d462158"
+			"e3ff1361-174f-4faf-be66-8e93c54766c8" "e5b8adac-ee29-41e0-8a0f-7e50cc576ffa"
+			"e730c77e-8fc9-428c-975e-56a79d92f5f7" "e7aa5e0a-48ea-4ac3-832a-603131f88780"
+			"e870114a-1bfc-473c-b01a-8448627c8285" "ea67907e-f2fe-48d7-bdc3-0d1a940f8254"
+			"ea70c201-650b-440d-a105-3fb315aedfd0" "eae1b08d-1213-4cb5-9527-be2264912837"
+			"ebcf8c4a-2948-4b1e-bb3e-8a11597ecca5" "ec2bc365-af33-4276-beee-911930dfe244"
+			"ed0763b4-c0d5-4b14-b2f5-53a0baa7b242" "f0192d32-62a3-4e91-935d-26ee8b005b64"
+			"f1474028-6000-4d4d-8d72-ae18cb9a2cb1" "f421d5c3-c09a-4d58-a4e4-403af6d98bdd"
+			"f4547b96-2ff0-45d9-a22d-9c2c0aa4aa17" "f534382f-7be2-4ab7-b8ed-486c827a1ca3"
+			"f5c7fc8f-0f0f-44fe-a130-261edf77f10c" "f5d106fd-e19e-455e-bd3b-75dfba8344fc"
+			"f5e573df-549d-4a05-9292-0a7a5100adb7" "f996ff65-6b62-4285-bea9-3a23be46f0c0"
+			"fc250c23-cd81-499c-af2f-df500c3d329e" "fcb6b4f6-78f4-4268-ade5-c0db6753cfc8"
+			"fd10491a-492f-42b3-9820-160e240dc92f" "fd273a36-1f58-4932-bb36-062bb204930a"
+			"fd9460a2-2dac-446b-9b1f-5ae8a461cb99"
 		)
 	)
 	(group "NOT"
