@@ -7,7 +7,7 @@ The project starts with transistor logic gates, continues through adders, regist
 ## Progress
 
 - [x] Transistor logic gates
-- [ ] Half and full adder
+- [x] Half and full adder
 - [ ] 1-bit ALU
 - [ ] Registers and counters
 - [ ] 8-bit ALU
