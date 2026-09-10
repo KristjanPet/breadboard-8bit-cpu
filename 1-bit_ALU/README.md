@@ -8,8 +8,8 @@ A 1-bit Arithmetic Logic Unit designed using 74HC logic chips. It supports ADD, 
 * **74HC08** — AND gates
 * **74HC32** — OR gates
 
-[!NOTE]
-    Dedicated XOR gates, such as the **74HC86**, would simplify the circuit and reduce wiring. I did not have any available, so each XOR was built using four NAND gates.
+>[!NOTE]
+>    Dedicated XOR gates, such as the **74HC86**, would simplify the circuit and reduce wiring. I did not have any available, so each XOR was built using four NAND gates.
 
 ## Operation Selection
 
@@ -39,3 +39,4 @@ Setting Carry-in to 1 flips the ADD result and recalculates Carry-out. The logic
 
 ![1-bit ALU schematic](Schematics.png)
 
+## Test
