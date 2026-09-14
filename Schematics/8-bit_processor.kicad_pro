@@ -435,15 +435,24 @@
         "filename": "8-bit_processor.kicad_sch",
         "name": "Root",
         "uuid": "8942afb3-f807-415f-be27-fb9dc57b1ca2"
+      },
+      {
+        "filename": "74hc_1-bit_alu.kicad_sch",
+        "name": "74HC_1-bit_ALU",
+        "uuid": "f56eb3ba-7531-45e7-b6e9-53ccb07a30aa"
       }
     ],
-    "used_designators": "B1-4,R1,A1-4,Q1-20,D1-6,#PWR1-10,SW1-2",
+    "used_designators": "ALU_resoult1,B1-4,R1,OR\\-1,A1-4,A7-10,D1-6,D9,U1-22,Q1-20,#PWR1-10,#PWR35-36,SW1-5",
     "variants": []
   },
   "sheets": [
     [
       "8942afb3-f807-415f-be27-fb9dc57b1ca2",
       "Root"
+    ],
+    [
+      "f56eb3ba-7531-45e7-b6e9-53ccb07a30aa",
+      "74HC_1-bit_ALU"
     ]
   ],
   "text_variables": {},
