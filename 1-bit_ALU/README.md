@@ -39,4 +39,17 @@ Setting Carry-in to 1 flips the ADD result and recalculates Carry-out. The logic
 
 ![1-bit ALU schematic](Schematics.png)
 
-## Test
+## Breadboard Test
+
+Both input buttons are pressed: **A = 1, B = 1**, with **Carry-in = 0**.
+The yellow LEDs show **S1** (left) and **S0** (right). The upper red LED shows the result; the lower red LED shows Carry-out.
+
+| AND — S1 S0 = 00, Result = 1 | ADD — S1 S0 = 01, Result = 0 |
+|---|---|
+| ![AND operation](alu-and-00.png) | ![ADD operation](alu-add-01.png) |
+
+| OR — S1 S0 = 10, Result = 1 | XOR — S1 S0 = 11, Result = 0 |
+|---|---|
+| ![OR operation](alu-or-10.png) | ![XOR operation](alu-xor-11.png) |
+
+**Carry-out stays HIGH in all four photos** because the full adder runs independently of the operation selector. It is used as an arithmetic result only in ADD mode.
