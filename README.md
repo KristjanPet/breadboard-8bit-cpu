@@ -8,7 +8,7 @@ The project starts with transistor logic gates, continues through adders, regist
 
 - [x] Transistor logic gates
 - [x] Half and full adder
-- [ ] 1-bit ALU
+- [x] 1-bit ALU
 - [ ] Registers and counters
 - [ ] 8-bit ALU
 - [ ] Control logic
